@@ -443,13 +443,13 @@ Here you can make a packet with black and white balls
 the first 8 balls are for an address
 
 0:11:32.009,0:11:35.046
-and the last eight balls are for *egg?*
+and the last eight balls are for data
 
 0:11:35.046,0:11:39.270
 You can only send one character at a time
 
 0:11:39.270,0:11:42.570
-And then press the "send" button
+Then press the "send" button
 
 0:11:42.570,0:11:48.196
 The packet goes through the internet
@@ -458,7 +458,7 @@ The packet goes through the internet
 And the router moves the packet from the local area network to another network
 
 0:11:52.509,0:11:55.794
-So this is a routing gate
+So this is a routing table
 
 0:11:55.794,0:12:03.040
 And then a packet go from the out to *z-q direction (unintelligible)*
