@@ -1653,3 +1653,4768 @@ Then we'll have a 10 minutes Q and A
 
 0:52:10.099,0:52:14.944
 So I would like to do this and to next presenter
+
+0:52:24.720,0:52:34.880
+can you hear me yes yes okay thank you very much 
+for accepting uh the speaker of this lecture
+
+0:52:36.160,0:52:39.840
+would you please start your 
+presentation as i can say okay
+
+0:52:43.520,0:52:45.840
+here you are
+
+0:52:48.160,0:52:58.080
+can you see it yes perfect all right so 
+uh my presentation will be by about my erc
+
+0:52:58.080,0:53:04.800
+european research council advanced grant 
+reach raising co-creativity in cyber human
+
+0:53:06.160,0:53:12.720
+musicianship first of all let me present ircam 
+the place where i'm i am a researcher so irkam
+
+0:53:12.720,0:53:19.120
+is instituted the coordination acoustic music with 
+actually a part of saint george pompidou in paris
+
+0:53:19.120,0:53:25.040
+it was created by famous conductor and composer 
+pierre bules in the uh 70s when the when the
+
+0:53:25.040,0:53:33.360
+sun pompidou was created and it is the the music 
+music and sound research parts of centro pompidou
+
+0:53:33.360,0:53:42.560
+so we have a three part in irkam a research lab 
+called science and technology of sound and music
+
+0:53:42.560,0:53:47.680
+who is operated by cnrs and strawberry 
+university and irkam of course and the
+
+0:53:47.680,0:53:52.960
+minister of the culture communication we 
+have we have a music creation department
+
+0:53:54.000,0:54:02.640
+with concert halls and composers in residence and 
+music commissions etc and we have an education
+
+0:54:02.640,0:54:09.200
+department where we have a master's program 
+first for young scientists and another program
+
+0:54:09.200,0:54:14.480
+in technology for musicians so it's a very 
+original model of innovation and creativity
+
+0:54:15.280,0:54:21.040
+uh where we have artists that are 
+immersed into a research context
+
+0:54:23.360,0:54:31.440
+all right so in irkam i have created a team called 
+music representation team years ago and now it has
+
+0:54:31.440,0:54:38.960
+become the biggest team in irkam and we have 
+a lot of researchers on ai and creativity for
+
+0:54:39.760,0:54:46.640
+artistic purposes specifically music 
+so we have five poles in this team so
+
+0:54:46.640,0:54:54.640
+certain of these polls are concerned with music 
+composition formalization uh formal approaches
+
+0:54:54.640,0:54:59.920
+to music but we have the three poles here are 
+really concerned with artificial intelligence
+
+0:54:59.920,0:55:09.920
+so reach is really the the the project that i will 
+be uh speaking about acid is a a project that is
+
+0:55:09.920,0:55:15.200
+highly oriented towards the machine learning for 
+creative applications and activities is really
+
+0:55:15.200,0:55:21.760
+oriented towards the idea of time and how you 
+write and control the time in an interactive setup
+
+0:55:23.840,0:55:30.320
+so to give an example uh there is a here 
+is a program that i wrote many years ago
+
+0:55:31.040,0:55:37.440
+and has now become the standard all over the world 
+for a computer-assisted composition it's called
+
+0:55:37.440,0:55:44.640
+open music and we have published three books where 
+thousands of composers explain how they would use
+
+0:55:44.640,0:55:49.920
+open music to create new music so open music 
+is actually a programming language but it is a
+
+0:55:49.920,0:55:56.160
+visual programming language so composers learn how 
+to program more easily because it's totally visual
+
+0:55:56.160,0:56:01.920
+and they can design new musical application so 
+this is not the artificial intelligence approach
+
+0:56:01.920,0:56:08.240
+this is the formal approaches where composers 
+actually have to specify the algorithm that they
+
+0:56:08.240,0:56:14.320
+want to use in order to create music after having 
+created open music with of course with my team
+
+0:56:15.280,0:56:20.160
+i have moved to the idea of creating 
+intelligent interaction with agents
+
+0:56:20.160,0:56:26.480
+with creative agents so we are moving closer 
+to artificial intelligence and again quite a
+
+0:56:26.480,0:56:33.280
+number of years ago i created with colleagues 
+the omax paradigm of intelligent interaction so
+
+0:56:33.280,0:56:40.160
+you see omax is really the simple idea that you 
+have intelligent agent feed with ai that are able
+
+0:56:40.160,0:56:47.520
+to listen to music either in offline or in real 
+time that are able simultaneously to learn so
+
+0:56:47.520,0:56:55.280
+apply a machine learning model create a model so 
+a mirror of musical memory simultaneously scan and
+
+0:56:57.040,0:57:01.760
+navigate the memory in order to generate new 
+materials and propose this new materials to
+
+0:57:01.760,0:57:07.040
+the musician and then you have reaction 
+reactions on both sides the musician will
+
+0:57:07.040,0:57:15.120
+react to the ai the ai will react to the musician 
+and we have this creative loop so omax had a lot
+
+0:57:15.120,0:57:21.360
+of hairs and descendants and you see many 
+popular systems that have been derived from
+
+0:57:21.360,0:57:28.400
+or original researchers uh on the omax paradigm 
+and notably all the work that is done right now at
+
+0:57:29.360,0:57:35.520
+sony music and now at spotify 
+is uh that was that was um um
+
+0:57:37.120,0:57:44.400
+work done was by francois pache was immediately 
+derived from our original research work at uh
+
+0:57:45.120,0:57:51.840
+on omax so homage has become a very important 
+paradigm and we have moved from this paradigm to
+
+0:57:51.840,0:57:59.840
+something even more uh interesting right now but 
+let me let me just give an idea of what this uh
+
+0:57:59.840,0:58:07.280
+interaction paradigm is about so before learning 
+the system must listen so you must have a
+
+0:58:07.280,0:58:14.240
+perception perception aware system of listening 
+we call this machine or artificial listening so
+
+0:58:14.240,0:58:20.720
+that we're gonna we're gonna uh segment uh the 
+the the stream of music into uh musical in it
+
+0:58:20.720,0:58:26.320
+that that will be distribute distributed over 
+some mathematical structure maybe a geometry
+
+0:58:26.320,0:58:32.960
+and we will discover with cognitive algorithm an 
+alphabet symbolic alphabet structure even though
+
+0:58:32.960,0:58:39.120
+we we are dealing with audio we will discover a 
+symbolic alphabet structure of on the musical unit
+
+0:58:39.120,0:58:45.040
+that will deliver a symbol extreme so from the 
+symbol extreme we will learn a model so we will
+
+0:58:45.040,0:58:50.240
+use a number of machine learning algorithm and 
+then regenerate and render new sequences and the
+
+0:58:50.240,0:58:57.200
+three processes listen learn and generate are real 
+time and concurrent and they are both cooperative
+
+0:59:00.800,0:59:06.800
+concurrent and cooperative so the the nice 
+drawing that you see here is the visual
+
+0:59:06.800,0:59:12.160
+representation of a musical sequence that has 
+been learned in real time by omax and all the
+
+0:59:12.160,0:59:18.800
+colored arcs that you see are actually actually 
+actually connecting different places of the music
+
+0:59:18.800,0:59:24.560
+with regard to similarity so because we have 
+this co this connection created by the ai
+
+0:59:25.680,0:59:31.600
+we have a kind of cartography of a map of the 
+music and the system just have to navigate around
+
+0:59:31.600,0:59:37.360
+this map to create new sequences that will be 
+statistically coherent with the material that
+
+0:59:37.360,0:59:44.480
+was learned but still creative and novel so 
+you see here in this model you have the the
+
+0:59:45.200,0:59:50.240
+musician who is for instance improvising and there 
+is a double loop he's listening to other musicians
+
+0:59:50.240,0:59:56.480
+and but he's also he or she listening to 
+uh to uh themselves and also listening to
+
+0:59:57.200,1:00:03.120
+its sound memories so himself or herself in the 
+past and the memory is a virtual part because
+
+1:00:03.120,1:00:09.200
+it is constituted by all that the musician 
+has played all that the other musicians are
+
+1:00:09.200,1:00:13.280
+playing and all that the mission has 
+ever played or learned in his life so
+
+1:00:13.280,1:00:19.360
+this is all virtual and this is exactly the 
+musical memory that the ai system is simulating
+
+1:00:27.360,1:00:35.360
+i'm hearing some music coming from somewhere 
+okay okay okay so so max is like you know this
+
+1:00:35.360,1:00:41.200
+zero point here in this graph that represents two 
+dimensions where you have the reactive dimension
+
+1:00:41.200,1:00:49.760
+the system reacts instantly to a to musician and 
+the planning dimension where the the user can
+
+1:00:49.760,1:00:55.840
+actually plan behaviors like compose for instance 
+a harmonic grid or any composition so omax is
+
+1:00:55.840,1:01:00.720
+really at zero because it is not really planning 
+and it is not reactive but it has a lot of machine
+
+1:01:00.720,1:01:06.240
+learning so then we have we have developed more 
+intelligent systems like the stomach system where
+
+1:01:06.240,1:01:13.840
+we have a high level of reactivity we have 
+developed the important system where we have
+
+1:01:13.840,1:01:19.280
+a high level of planning and now we are working 
+on a hybrid system where we would have a good
+
+1:01:19.280,1:01:25.040
+compromise between being totally reactive to what 
+the live musicians are doing and also having some
+
+1:01:25.040,1:01:32.560
+planning and being able to develop interesting 
+and sophisticated and structured musical processes
+
+1:01:33.360,1:01:41.680
+so here is the the general diagram the that 
+we are now exploring in the rich uh project
+
+1:01:43.200,1:01:47.600
+where you have some musical input musical 
+signal you have a machine listening
+
+1:01:48.160,1:01:54.320
+unit that creates a symbolic signal stream 
+you have a learning unit that will do some
+
+1:01:54.320,1:02:00.560
+machine learning uh statistical probabilistic 
+probabilistical or deep learning that will learn
+
+1:02:00.560,1:02:07.680
+a model and that will give back some information 
+to the uh to the listening machine so it will
+
+1:02:07.680,1:02:12.960
+help the listening machine to improve itself 
+so the learning will create a memory model
+
+1:02:14.000,1:02:21.760
+where we will have an interaction agent that will 
+query the model in order to create new musical
+
+1:02:21.760,1:02:28.160
+material but that will still be listening to the 
+musical stream in the input so the interacting
+
+1:02:28.720,1:02:34.400
+agent will be able also to be reactive and not 
+only creative and generative and the user will
+
+1:02:34.400,1:02:41.600
+be able to specify scenarios so to compose some 
+music but then the interacting model will be able
+
+1:02:41.600,1:02:49.440
+to give feedback control to the scenario unit in 
+order to be able to generate artificial scenarios
+
+1:02:49.440,1:02:54.160
+that will be interacting with the user general 
+so this is a highly sophisticated architecture
+
+1:02:54.160,1:03:00.000
+that will be able to generate very interesting 
+musical experiments so now let me show you just
+
+1:03:00.880,1:03:07.040
+two two-minute video where you will see some 
+example or where we have uh what we have
+
+1:03:07.040,1:03:13.040
+reached so far you will see you will see a pianist 
+playing at some point you will hear three singers
+
+1:03:13.040,1:03:17.840
+edit piaf elizabeth schwarzkopf and b 
+holidays who are very famous singers
+
+1:03:17.840,1:03:24.720
+so we have used audio archives but the 
+ai which will totally uh re-improvise
+
+1:03:24.720,1:03:29.840
+the audio archives in order to align the 
+improvisation with what the pianist is doing
+
+1:03:54.800,1:04:11.840
+and when it comes i'll do my best
+
+1:04:31.280,1:04:39.840
+oh
+
+1:04:43.600,1:04:53.840
+oh
+
+1:05:17.920,1:05:21.840
+from which i'm never wrong
+
+1:05:34.400,1:05:35.840
+oh sorry
+
+1:05:50.240,1:06:03.840
+huh
+
+1:06:05.360,1:06:17.840
+um
+
+1:06:30.960,1:06:36.640
+okay so you have seen two examples one was 
+an offline example where the ai has learned
+
+1:06:36.640,1:06:42.080
+a lot of materials from the three singers and 
+then is able to recompose and re-improvise
+
+1:06:43.600,1:06:49.840
+in the audio domain but as well also in 
+the video domain uh the music and in the
+
+1:06:49.840,1:06:56.400
+last part of the video you have seen a real time 
+example where the system captures and learned uh
+
+1:06:57.280,1:07:04.640
+his model in real time uh from what the musician 
+is uh actually performing and is able to instantly
+
+1:07:04.640,1:07:11.120
+uh interact and have a dialogue with the 
+musician so every time you were listening
+
+1:07:11.120,1:07:15.680
+to the saxophone sound and the musician was 
+not obviously not playing his instrument
+
+1:07:15.680,1:07:23.040
+it was the ai playing and proposing a dialogue to 
+the to the musician okay recently we have begun
+
+1:07:23.040,1:07:30.480
+a national research agency project called mercy 
+makes musical reality with creative instruments
+
+1:07:32.880,1:07:37.040
+where we have an industrial partner 
+called high vibe and high vibe has been
+
+1:07:39.200,1:07:44.400
+has obtained a lot of awards in the industrial 
+world for instance there is the challenge
+
+1:07:44.400,1:07:52.560
+award of the the best uh the the best uh 
+startup for uh 2021 and they are designing
+
+1:07:52.560,1:08:00.560
+a active acoustic system that uh where 
+they transform material devices into uh
+
+1:08:02.960,1:08:03.520
+acoustic
+
+1:08:06.400,1:08:10.640
+diffusion system and they have created they have 
+created a new instrument called the high-vibe
+
+1:08:10.640,1:08:17.440
+guitar that is equipped with actuators and sensors 
+and computing power inside the guitar and when
+
+1:08:17.440,1:08:22.960
+where you can you can have some processing of 
+the sound of the guitar that is rendered not by
+
+1:08:22.960,1:08:29.280
+a loudspeaker but by the body the wooden body of 
+the guitar itself so it gives the the musician the
+
+1:08:29.280,1:08:37.840
+feeling that the instrument is really reacting to 
+what uh he's doing so here he's here's an example
+
+1:08:45.120,1:08:51.840
+and another
+
+1:08:54.800,1:09:02.560
+so so what we want to do is to be able to embed 
+the artificial intelligence into the instrument so
+
+1:09:02.560,1:09:10.000
+this instrument is not only capable of extending 
+the sound of the instrumentist but also to add an
+
+1:09:10.000,1:09:16.000
+intelligent musical layer to what the musician is 
+doing and maybe to co-improvise with the musician
+
+1:09:16.000,1:09:20.960
+and this is what we call co-creativity when 
+we have a situation an interactive situation
+
+1:09:20.960,1:09:26.560
+where a musician and a computer system 
+are able to co-create or co-improvise
+
+1:09:26.560,1:09:29.840
+and this is where we get to the 
+rich project that has just begun
+
+1:09:31.280,1:09:37.680
+the last year where we are kind of uh 
+wrapping up and summing up all this uh
+
+1:09:38.400,1:09:48.560
+big experience in uh writing ai system for uh 
+interactive music creation uh where we want to
+
+1:09:48.560,1:09:55.520
+really really focus on what i call co-creativity 
+between human and ai emphasizing that creativity
+
+1:09:55.520,1:10:00.400
+is an emerging dynamics resulting from 
+complex interaction between actors so
+
+1:10:00.400,1:10:06.320
+it cannot be understood by considering each 
+agent's production in separation but on the
+
+1:10:06.320,1:10:13.040
+contrary you have to consider the the really 
+the uh the sum of the behaviors of the agents
+
+1:10:13.040,1:10:20.720
+so uh this frees us from the concept of artificial 
+creativity art artificial intelligence in
+
+1:10:21.840,1:10:28.080
+the art because creativity is not a state that 
+you are trying to reach it's a dynamical effect
+
+1:10:28.880,1:10:34.640
+an emergent effect of interaction in a complex 
+system so you cannot you can never catch really
+
+1:10:34.640,1:10:41.280
+what creativity or co-creativity is in a 
+static way it will only emerge in the time
+
+1:10:41.280,1:10:47.600
+of interaction this is what we the idea that we 
+defined in reach so cyber human co-creativity
+
+1:10:47.600,1:10:52.720
+will appear when you have emergence of 
+cohesive or contrasting joint behaviors
+
+1:10:52.720,1:10:57.760
+that that you are not able to reduce to individual 
+processes and then you will have operation of
+
+1:10:57.760,1:11:04.720
+non-linear regime of event and structure formation 
+that will create core evolutions of forms and
+
+1:11:04.720,1:11:09.520
+this happens because you have cross-learning 
+processes where the machine learns in real time
+
+1:11:09.520,1:11:14.080
+from the musician but the musician learns in real 
+time from the machine or international in general
+
+1:11:14.080,1:11:20.400
+agents that can be artificial or human 
+learn from one another in a cross
+
+1:11:22.160,1:11:26.960
+way and this will create complex 
+feedback loops and reinforcement
+
+1:11:26.960,1:11:32.720
+mechanism mechanism that will favor the 
+the emergent the emergent mechanism so
+
+1:11:33.920,1:11:39.040
+as a cyber physical system like the guitar for 
+instance is a cyber physical system they create
+
+1:11:39.040,1:11:44.720
+an interaction continuity between digital and 
+physical world now we want to propose the term
+
+1:11:44.720,1:11:50.800
+cyber audience for systems that create a synergy 
+between the digital models and the human mind the
+
+1:11:50.800,1:11:59.680
+human creativity so this is the the structure 
+of reach but mainly what we have is two central
+
+1:11:59.680,1:12:06.720
+tasks that that are kind of converging one to the 
+other one is to augment the digital agent's id
+
+1:12:07.440,1:12:13.840
+abilities with better ai algorithms enhance 
+creativity autonomy sensitivity to context but
+
+1:12:13.840,1:12:19.680
+also cyber physical extension like the guitar so 
+they can act in the material world on the other
+
+1:12:19.680,1:12:27.360
+side we will take the human and get it closer to 
+the digital agent by augmenting the human ability
+
+1:12:27.360,1:12:33.440
+by interfacing them into embedded mixed realities 
+so for instance the the creative guitar that we
+
+1:12:33.440,1:12:39.360
+are doing with iv is our first mixed reality 
+instrument so something that augments the
+
+1:12:39.360,1:12:50.880
+the natural reality by a digital augmentation so 
+the rich artistic impact is huge recently we had
+
+1:12:50.880,1:12:55.920
+the concert at the maison de la jolla music with 
+the orchest national the the jazz and they were
+
+1:12:55.920,1:13:01.600
+playing with or algorithm that were interacting in 
+real time with the whole orchestra which was which
+
+1:13:01.600,1:13:09.680
+is more than 20 musicians we have we have issued a 
+a new record and a book called artistic where you
+
+1:13:09.680,1:13:16.880
+can listen to all this interact the interactive 
+concert with ai and you have 200 of 200 pages of
+
+1:13:17.440,1:13:26.160
+critical analysis and commentary of the of the 
+phenomenon of uh ai in uh in art a lot of concerts
+
+1:13:26.160,1:13:34.720
+festivals uh etc where all systems are actually 
+uh used in in in real life and i will just show
+
+1:13:34.720,1:13:41.040
+a one minute video where you will see the same 
+kind of human augmentation but here is the video
+
+1:13:41.040,1:13:47.200
+so we use the archive of binaries concert at 
+the montreux jazz festival and the archives is
+
+1:13:47.200,1:13:59.840
+controlled by the ai in order that it's able to 
+react in real time to what the pianist is doing
+
+1:14:09.200,1:14:13.840
+then
+
+1:14:24.800,1:14:27.840
+andy
+
+1:14:52.720,1:14:55.840
+red
+
+1:15:21.200,1:15:24.800
+so uh thank you for your 
+attention and i will stop here
+
+1:15:27.840,1:15:38.160
+thank you very much and say your 
+presentation is very interesting and um
+
+1:15:38.160,1:15:44.720
+i felt to tell this earlier for our 
+audience if you have any questions
+
+1:15:45.520,1:15:51.120
+please post questions to the chat 
+we will have a q a session or q
+
+1:16:05.040,1:16:10.800
+going to say like could you please start 
+your presentation okay do you hear me
+
+1:16:14.800,1:16:16.720
+okay i think you are
+
+1:16:18.720,1:16:28.160
+seeing my screen right uh i i'm sorry uh 
+you have to monitor yeah that's a problem
+
+1:16:31.360,1:16:33.840
+okay
+
+1:16:37.120,1:16:37.760
+left side
+
+1:16:39.840,1:16:48.240
+wait a minute i will activate the second screen um
+
+1:16:48.240,1:16:54.800
+maybe you can screen you can share 
+not for a monitor for only a window
+
+1:16:58.240,1:17:01.840
+oh
+
+1:17:04.640,1:17:15.840
+do you see my screen no no not yet
+
+1:17:23.600,1:17:24.800
+no you don't see anything
+
+1:17:26.880,1:17:30.560
+and it's coming and maybe we 
+can wait for a few seconds
+
+1:17:33.280,1:17:43.840
+sorry for that i will disconnect my second screen
+
+1:17:53.760,1:17:57.840
+i don't know what is happening
+
+1:18:04.480,1:18:05.120
+um
+
+1:18:08.320,1:18:11.840
+zoom is not really working well for me
+
+1:18:19.760,1:18:25.840
+of course okay to share a full monitor
+
+1:18:32.960,1:18:35.200
+is that okay with you do you see my screen now
+
+1:18:38.560,1:18:42.240
+did you see my screen no no no
+
+1:18:45.200,1:18:46.720
+i don't know what is going on
+
+1:18:49.040,1:18:54.560
+um i propose maybe you can send 
+me your your presentation i i i
+
+1:18:54.560,1:18:59.040
+will uh yeah but i have videos so uh for me
+
+1:19:01.760,1:19:04.480
+i don't understand stop sharing
+
+1:19:06.800,1:19:14.320
+and i'm really sorry because i have to update 
+my zoom and the new one is not working um
+
+1:19:17.520,1:19:25.280
+uh application windows okay maybe i can try 
+that one and here do you see my side my screen
+
+1:19:27.440,1:19:36.640
+hello no no no it's black it's black yes yeah only 
+black black it's black black but it's written you
+
+1:19:36.640,1:19:49.840
+start to share your screen yeah i think i have 
+a problem with my display system i don't know
+
+1:19:54.480,1:20:03.840
+um i don't know what is happening
+
+1:20:05.200,1:20:17.840
+ugh
+
+1:20:20.800,1:20:25.680
+do you don't see anything you don't 
+see anything telling that you are
+
+1:20:25.680,1:20:34.560
+sharing your screen but we don't see anything 
+arriving on the screen actually okay let's try
+
+1:20:45.440,1:20:46.480
+i again understand
+
+1:20:50.240,1:20:59.840
+you could uh hear her monitor what is the 
+first time so yeah i i this is what i'm doing
+
+1:21:03.600,1:21:07.360
+do you see something no an ear
+
+1:21:09.600,1:21:13.840
+so you don't see my monitor at all right now
+
+1:21:16.880,1:21:18.320
+i'm sorry about that
+
+1:21:23.440,1:21:27.840
+i don't see
+
+1:21:28.720,1:21:34.800
+i don't understand this usually 
+should work except for this problem of
+
+1:21:39.520,1:21:43.440
+maybe you can reconnect your 
+your last your second screen and
+
+1:21:44.800,1:21:50.400
+this is what i have done okay but you don't 
+have to jump here you don't see anything
+
+1:21:52.000,1:22:01.360
+what if you sorry hello everybody what if you send 
+your uh slides via file sender send file sender
+
+1:22:01.920,1:22:09.840
+to download and yeah but the problem is that i 
+have movies uh you have too many yeah okay sorry
+
+1:22:12.320,1:22:16.800
+okay but i will maybe i can i don't 
+know why why you don't see the screen
+
+1:22:18.720,1:22:27.520
+you can change the order of a presentation for 
+example you can search mangalysan and marekson
+
+1:22:29.520,1:22:31.600
+then we have uh some yeah
+
+1:22:32.960,1:22:37.840
+yeah but uh this reason this will not 
+solve the just sharing problem i will have
+
+1:22:40.880,1:22:47.280
+let me try something you don't see anything at all 
+right now or a black screen or something like that
+
+1:22:48.320,1:22:52.320
+just a black screen
+
+1:22:52.320,1:22:59.040
+okay so i'm sorry i i don't know what uh what 
+i can do there okay i can sign for sure i can't
+
+1:22:59.040,1:23:04.640
+send the presentation but uh this could be 
+a pity because there are a lot of movies
+
+1:23:04.640,1:23:11.280
+uh going on um maybe i will okay you can 
+switch i will try to reconnect and uh
+
+1:23:13.120,1:23:16.000
+maybe just try to disconnect and reconnect maybe
+
+1:23:19.440,1:23:20.800
+i can't try that
+
+1:23:23.200,1:23:23.760
+yeah but
+
+1:23:26.720,1:23:33.840
+new show let's try new share
+
+1:23:36.400,1:23:42.880
+let's try something else you 
+still don't see anything no right
+
+1:23:45.360,1:23:50.320
+and i'm really sorry about 
+that i don't know what to do um
+
+1:23:53.280,1:24:01.840
+this usually works except for this actually 
+appears this morning so maybe yes we can
+
+1:24:03.280,1:24:09.040
+close a general program jim application 
+then early connect to a gene
+
+1:24:10.640,1:24:15.840
+okay i will do that i will 
+disconnect and reconnect again
+
+1:24:27.520,1:24:36.560
+so maybe i don't know if someone has a question 
+maybe we can take one question yes it's uh
+
+1:24:36.560,1:24:46.080
+it's better to use this tank to hold qa so if 
+anyone has a question to audience from audience
+
+1:24:53.200,1:25:00.000
+or culture if you have questions also to professor 
+tokui and professor asaya you can ask them also
+
+1:25:00.880,1:25:04.160
+yes uh i have a question for mr tokuy
+
+1:25:05.760,1:25:13.760
+how did you create a gun for a release because 
+i think it's very difficult to uh create a
+
+1:25:13.760,1:25:25.840
+discriminator for what is a light and least and 
+a long reason on my song could you please share
+
+1:25:38.720,1:25:39.840
+it's very good
+
+1:25:47.600,1:25:53.840
+could you please say something
+
+1:25:56.400,1:26:07.840
+i can see your sharing monitor and sharing 
+window but i cannot hear your voice
+
+1:26:09.920,1:26:21.840
+foreign
+
+1:26:34.560,1:26:36.080
+how can i can we do
+
+1:26:44.880,1:26:49.840
+yeah i'm looking forward
+
+1:26:51.520,1:27:03.840
+very strange
+
+1:27:06.800,1:27:17.840
+oh
+
+1:27:21.840,1:27:28.320
+okay do you see my screen now 
+uh yes i can see okay so i will
+
+1:27:29.200,1:27:36.400
+go fast to so if possibilities so i'm jean-claire 
+i'm working as a robotician so i'm not an artist
+
+1:27:36.400,1:27:43.040
+at all i'm working in a team which is called ifa 
+sauce which is working basically on providing
+
+1:27:43.040,1:27:54.480
+assisted device for free people um probably that 
+i don't see my screen so i cannot go up and down
+
+1:27:57.760,1:28:05.040
+okay so what are the benefits for 
+scientists to work with athletes
+
+1:28:05.040,1:28:09.360
+this is the question i have to raise what are 
+the benefits for artists to work with scientists
+
+1:28:09.360,1:28:14.960
+those opposite and our other application 
+domains may benefit from such a collaboration
+
+1:28:16.320,1:28:20.400
+it's difficult to work with artists for a 
+scientist and i assume that it's difficult
+
+1:28:20.400,1:28:25.600
+for artists to work with scientists because 
+there are a lot of problems so what are
+
+1:28:25.600,1:28:32.400
+the benefits for scientists to work with 
+artists well in our research institution
+
+1:28:33.200,1:28:39.760
+it's not really expected and sometimes 
+it's even seen as quite suspect furthermore
+
+1:28:40.400,1:28:46.320
+from an evaluation from a scientist evaluation 
+viewpoint it's difficult to evaluate because we
+
+1:28:46.320,1:28:52.800
+don't have indicators and collaboration with 
+artists requires a huge understanding effort
+
+1:28:55.280,1:29:01.920
+what are the benefits for artists to work with 
+scientists well it's a major difficulty is
+
+1:29:01.920,1:29:09.840
+that the scientist is some kind of in between 
+between the artists and the work because them are
+
+1:29:10.560,1:29:18.080
+many of the artists are not aware of technological 
+possibilities so they have an attitude of
+
+1:29:18.080,1:29:26.480
+self-censorship that limits the creativity and 
+they're also the understanding effort for our
+
+1:29:28.160,1:29:37.200
+people uh they have also to understand 
+scientists uh do you still hear me i'm
+
+1:29:37.200,1:29:43.360
+not sure because i have absolutely 
+no sound no yeah it's okay so
+
+1:29:44.480,1:29:51.840
+let's let's go to to a practical example to show 
+you that in spite of these drawbacks we have
+
+1:29:53.440,1:29:57.200
+the possibility and it's very interesting 
+possibility to collaborate with artists
+
+1:29:58.800,1:30:04.080
+i will illustrate site on this example where we 
+have a robot which is called the cable driven
+
+1:30:04.080,1:30:11.200
+parallel robot and the purpose of this robot is 
+to be able to move the point b that you see on the
+
+1:30:11.200,1:30:21.440
+drawing the platform with this guy underside moves 
+his platform in all direction x y z so we can
+
+1:30:21.440,1:30:27.120
+raise the platform go to left go 
+backwards and upward and to do that
+
+1:30:28.080,1:30:31.840
+we have four cables which 
+are attached to the platform
+
+1:30:32.480,1:30:40.400
+and are also attached on the winch at point a 
+and the winch allowed to change the cable lengths
+
+1:30:41.760,1:30:48.960
+and by an appropriate control of the cable length 
+we can change the position of the platform at will
+
+1:30:52.160,1:30:52.660
+oops
+
+1:30:54.960,1:31:01.680
+uh there is an application of this kind of robot 
+in the earth's domain which is assistance to
+
+1:31:01.680,1:31:08.080
+mobility for freight people for example really 
+making transfer operation helping them to go
+
+1:31:08.080,1:31:13.600
+for example to go to a sitting from a sitting 
+position to a standing position and also for
+
+1:31:13.600,1:31:18.880
+working assistance with the benefits of providing 
+autonomy they are able to do something that
+
+1:31:20.320,1:31:26.720
+before they were not able to do alone which 
+improves self-esteem improved social relationship
+
+1:31:27.280,1:31:33.200
+and it's also very interesting for doctors 
+for monitoring the health of the subject
+
+1:31:33.200,1:31:40.240
+because this platform is instrumented to give 
+medical information so let's just show me a a
+
+1:31:41.120,1:31:49.600
+short video if it works i hope you can see 
+the video uh you see your passion on the bed
+
+1:31:49.600,1:31:58.560
+the robot is coming down the patient is in 
+a medical harness and i'm losing the job
+
+1:31:58.560,1:32:04.400
+but basically the passion can do it alone 
+the robot will lift the passion to move her
+
+1:32:05.680,1:32:14.960
+in a wheelchair so she will be now again 
+fully autonomous i will stop the video
+
+1:32:17.760,1:32:24.400
+but already this robot has this kind of having 
+incursion of art so for example maybe you
+
+1:32:24.400,1:32:32.080
+know the pink singer and this is one of her 
+public performance she moves over the crowd
+
+1:32:33.200,1:32:39.840
+using this robot and you can see 
+she will do something very french
+
+1:32:40.720,1:32:45.440
+on the screen you don't see the video no video
+
+1:32:48.000,1:32:54.720
+not this one not the previous one as 
+well pdf sorry but okay this is probably
+
+1:32:54.720,1:32:59.680
+the same issue with my queen i 
+will skip that for the sake of time
+
+1:33:02.800,1:33:09.680
+in 2018 we have a magic encounter with 
+an artist whose name is ann valerie gas
+
+1:33:11.920,1:33:18.160
+during a workshop devoted to the use of robot in 
+architecture and valerie was looking for a machine
+
+1:33:18.880,1:33:25.440
+with the purpose of 3d printing a 
+structure on large scale dozens of metals
+
+1:33:26.560,1:33:28.880
+the printing material is glass microbeads
+
+1:33:30.480,1:33:36.800
+the machine has to follow a fixed trajectory 
+and deposit layers of glass powder but there is
+
+1:33:36.800,1:33:42.640
+no gluing element in the boiler so that the 
+structure slowly collapse after each layer
+
+1:33:44.720,1:33:49.840
+and an exhibition of this structure 
+was scheduled for the summer of 2019
+
+1:33:50.480,1:33:53.040
+in an art center located close to paris
+
+1:33:55.520,1:34:01.120
+we get interested in this project 
+because we have made a huge
+
+1:34:02.720,1:34:08.560
+effort on the theoretical modeling and control of 
+this kind of robot we are interested in long-term
+
+1:34:08.560,1:34:15.200
+deployment because this allowed to test the 
+robustness of our system and especially to
+
+1:34:15.200,1:34:21.200
+detect failure understanding why something 
+has failed and detecting unexpected behaviors
+
+1:34:23.200,1:34:28.240
+the objectives we have was basically increasing 
+the safety and performance of the system
+
+1:34:30.160,1:34:38.400
+for dealing with uh our assistance problem 
+so you see a picture of the exhibition place
+
+1:34:38.400,1:34:45.840
+it was huge uh the length was about 40 
+meter so it's about 20 meter 25 meter
+
+1:34:47.680,1:34:50.560
+you see there's a drum that is moved by the robot
+
+1:34:54.880,1:35:00.000
+i will not show the video it's it's 
+basically bad but i cannot do anything
+
+1:35:00.000,1:35:13.840
+to get that also maybe i try maybe let me 
+try something uh i hope i will not lose
+
+1:35:20.320,1:35:27.840
+maybe you switch the video now
+
+1:35:33.360,1:35:41.840
+i can see the video okay
+
+1:35:47.120,1:35:55.840
+and now it's deploying the powder on the structure
+
+1:35:57.760,1:36:06.400
+okay we'll stop the video move back to the 
+talk i hope you see the the slide now um
+
+1:36:08.080,1:36:14.960
+so some result of this exhibition the exhibition 
+lasts for one month and a half the robot traveled
+
+1:36:14.960,1:36:24.320
+for more than four kilometers walking in 
+average four hours and fifteen minutes per day
+
+1:36:24.320,1:36:31.120
+uh 76 layers of glass powder were deposited 
+which represents 1.5 tons of glass
+
+1:36:31.920,1:36:36.480
+and we have some failures one cable 
+breakdown during the installation
+
+1:36:37.520,1:36:44.480
+and two small failure encoder on one axis 
+model but so was it was not really important
+
+1:36:46.800,1:36:54.080
+uh next we move to icra 2020 the same uh 
+exhibition was scheduled to be part of
+
+1:36:54.080,1:36:59.920
+uh the exhibition part of a big 
+robotics conference which is
+
+1:36:59.920,1:37:06.960
+whose name is aikra which uh have 5000 
+plus atlantis in paris during june 2020
+
+1:37:07.760,1:37:13.360
+we have improved the system but unfortunately 
+iqra was postponed because of the coffee
+
+1:37:14.480,1:37:20.080
+and our new exhibition will take place during the 
+summer of this year in a museum close to to this
+
+1:37:22.240,1:37:32.400
+lesson learned from art to science we have 
+received a huge benefit in taking part of the
+
+1:37:32.400,1:37:39.680
+exhibition from a scientific viewpoint we are a 
+single team in a world which is able to master a
+
+1:37:39.680,1:37:46.160
+very difficult issue in this kind of robots 
+furthermore this experiment those are very
+
+1:37:47.200,1:37:50.880
+unique test bed for researchers 
+working on new information
+
+1:37:50.880,1:37:57.600
+dunes formation modeling but still many of the 
+colleagues our research school indicates that
+
+1:37:59.360,1:38:04.160
+more or less valley yeah could 
+you please back to the pdf
+
+1:38:06.240,1:38:16.240
+too we see the stop the video so 
+could you please back to pdf okay um
+
+1:38:19.200,1:38:29.840
+let me see
+
+1:38:30.640,1:38:37.600
+okay now you sh okay you schematic 
+so i'm backing up lesson learned um
+
+1:38:38.240,1:38:41.440
+from a scientific viewpoint this 
+experiment was very interesting
+
+1:38:42.080,1:38:49.920
+but still many of our research colleagues states 
+more or less overly that this is not real science
+
+1:38:55.040,1:39:01.040
+it's also said that the government's 
+level that interdisciplinarity is
+
+1:39:02.320,1:39:08.880
+very good is a necessity but in the practice 
+of such official speech is quite different
+
+1:39:10.800,1:39:14.640
+because the evaluation committee are not 
+very comfortable with such a collaboration
+
+1:39:17.440,1:39:24.160
+uh what we need also is that discussion with 
+doctors and artists have a lot of similarity they
+
+1:39:24.160,1:39:29.600
+have a different language they have a different 
+level of scientific knowledge but for us it's
+
+1:39:29.600,1:39:35.680
+quite uh interesting because this exhibition 
+has facilitated our communication with doctors
+
+1:39:37.200,1:39:41.840
+now lesson learned from science to 
+art many artists believes that that
+
+1:39:41.840,1:39:46.960
+animating an artwork is a complex and 
+expensive task this is no more true
+
+1:39:49.120,1:39:52.080
+even for motion except for very large artwork
+
+1:39:53.200,1:40:03.360
+uh to illustrate that in 2015 we have uh organized 
+a workshop called computer science for art which
+
+1:40:03.360,1:40:08.640
+results so it was a five day workshop which 
+resulted in a concept at the end of the workshop
+
+1:40:09.280,1:40:14.880
+with the device developed by the artist during 
+the workshop and i can show you a picture of
+
+1:40:14.880,1:40:22.640
+this concept you see some strange machines that 
+were making music both on the ground on the table
+
+1:40:23.360,1:40:31.520
+you see a dancer uh for example the dancer as an 
+accelerometer on so that the music was changing
+
+1:40:31.520,1:40:38.880
+according to a motion so i moved to conclusion 
+and sorry for the delay uh for a scientist
+
+1:40:38.880,1:40:44.720
+wondering on domains quite different from our 
+main research field is very fruitful this allows
+
+1:40:44.720,1:40:51.600
+us to develop new algorithms new software newer 
+methodologies and all this work may be used for
+
+1:40:52.720,1:41:00.320
+other research topics in our case working with 
+artists has allowed us to improve our medical
+
+1:41:00.320,1:41:07.440
+device facilitate our discussion with doctors 
+but also to better understand human accepta
+
+1:41:07.440,1:41:14.880
+acceptation of the device which is quite essential 
+for us and to better understand the pasture needs
+
+1:41:15.600,1:41:22.480
+so this will end up my presentation and sorry for 
+the technical problem thank you for your attention
+
+1:41:25.360,1:41:27.520
+thank you very much for uh
+
+1:41:30.080,1:41:41.200
+i understand this uh conclusion very much uh so 
+this time uh this is the end of a session one and
+
+1:41:41.200,1:41:50.880
+uh from now uh we'd like to have some accurate 
+session so if any and anyone has a question
+
+1:41:50.880,1:42:00.800
+for the speakers could you please raise your 
+hand or say something from my microphone
+
+1:42:03.280,1:42:03.780
+hello
+
+1:42:06.080,1:42:13.840
+chris as i said
+
+1:42:19.120,1:42:27.840
+no
+
+1:42:28.880,1:42:32.480
+maybe you started a question 
+uh quick you know maybe you can
+
+1:42:33.600,1:42:41.040
+yes i have so many questions uh sensei uh 
+i'm very impressed by your presentation
+
+1:42:43.680,1:42:54.400
+is very good to improve advance the possibility of 
+music so i'm very impressed by your work how can i
+
+1:42:54.400,1:43:07.440
+say the guitar with a vibration so how what is the 
+initial motivation of to create this kind of data
+
+1:43:09.520,1:43:18.560
+okay so uh as i said one of the 
+fundamentals of the rich project is to
+
+1:43:19.520,1:43:29.840
+state that creativity shared with the machine 
+can only be an emergent process that will
+
+1:43:30.480,1:43:40.480
+that will appear in in the course of interaction 
+and uh so so that you cannot really uh
+
+1:43:41.680,1:43:47.920
+describe what is creativity for a machine 
+and maybe this this doesn't have even
+
+1:43:47.920,1:43:54.560
+meaning but you can describe creative or 
+co-creative processes that are emerging
+
+1:43:54.560,1:44:00.000
+because you have a complex interaction 
+between agents artificial or humans who are
+
+1:44:01.280,1:44:05.760
+related by a cross-learning 
+phenomenon so once we have uh
+
+1:44:05.760,1:44:12.240
+moved into this realm we have realized that in 
+order to really have this convergence between
+
+1:44:13.200,1:44:19.280
+cyber augmentation which is augmenting the 
+the the capacities of agaris of algorithms
+
+1:44:19.280,1:44:24.640
+and human augmentation which is augmenting 
+the capacities of human towards the algorithm
+
+1:44:25.360,1:44:33.840
+we needed we really needed a physical step that 
+is a step where there would be some embodiment of
+
+1:44:33.840,1:44:40.640
+the human into the process of interacting with 
+the machine so the guitar is only the first uh
+
+1:44:40.640,1:44:48.960
+try that we make the first step of of trying to 
+to to create the condition for such a physical
+
+1:44:48.960,1:44:56.640
+embodiment of the human by embedding the algorithm 
+into a physical device that the human really has
+
+1:44:56.640,1:45:02.160
+against his body and feels like an extension 
+of the of his body but it is just the first
+
+1:45:02.160,1:45:08.080
+experiment of course we would like to design many 
+other instruments or any kind of devices where
+
+1:45:09.120,1:45:15.200
+this emergence of co-creativity between human and 
+machines will be really the result not only of an
+
+1:45:15.200,1:45:20.400
+intellectual process but of a physical embodiment 
+of the human and maybe and maybe sometimes because
+
+1:45:20.400,1:45:27.840
+we we had a robotics presentation just before and 
+maybe also a physical embodiment of artificial
+
+1:45:27.840,1:45:35.120
+creators too thank you very much i'm very 
+impressed by your idea co-creativity with machine
+
+1:45:36.080,1:45:46.160
+and then i one question to mr tokui and i already 
+asked the question so could you please answer it
+
+1:45:47.680,1:45:57.120
+so how can that how i train my gun model 
+on listen that was question correct okay
+
+1:45:57.120,1:46:08.560
+so maybe i was not so clear about my project 
+so the first step was uh to train a normal gun
+
+1:46:08.560,1:46:17.360
+model a generative otherwise a network model on 
+this data so it's i think relatively easy for
+
+1:46:18.480,1:46:28.480
+you know gans network to capture the the essence 
+of within pattern but i think i thought it's just
+
+1:46:29.920,1:46:41.280
+another imitation of human creativity in a way 
+that's why as a second step uh i added another
+
+1:46:41.280,1:46:51.120
+discriminator to the original gun framework 
+then the second discriminator is not is not
+
+1:46:53.200,1:46:59.680
+expected to classify uh training data from uh uh
+
+1:47:02.960,1:47:13.520
+at least artificial data but it's expected 
+to classify the genre of music generated
+
+1:47:16.080,1:47:16.580
+so
+
+1:47:19.440,1:47:26.320
+the original uh discriminator 
+was uh trained to classify
+
+1:47:28.560,1:47:37.440
+the real data from the situation right that's the 
+uh the core concept when it was about a network
+
+1:47:37.440,1:47:46.240
+then i added a second discriminator which 
+does the classification of musical genres
+
+1:47:48.880,1:47:59.440
+so the origin uh that's right the the generator 
+was uh uh trained to confuse not only the original
+
+1:47:59.440,1:48:07.520
+uh discriminator but also the second gen 
+classification discriminator so i expect
+
+1:48:09.280,1:48:20.000
+at the end generator will be able to generate 
+something that sounds like a realism pattern but
+
+1:48:21.520,1:48:31.840
+uh this is patterns that 
+don't belong to any genres
+
+1:48:43.200,1:48:54.000
+the original idea was when you think about artists 
+maybe uh so think about uh any famous ladies
+
+1:48:54.720,1:49:13.840
+picasso for example so he started to uh you 
+know uh trying himself to uh capture the the um
+
+1:49:15.520,1:49:21.840
+let me rephrase again uh so picasso 
+or any other artist should start
+
+1:49:22.880,1:49:29.680
+painting uh to imitate somebody 
+else's style right so i want to be
+
+1:49:29.680,1:49:41.760
+like this artist or that artist but uh because 
+or any other artist at some point they start uh
+
+1:49:43.600,1:49:52.640
+try to deviate from the existing 
+styles so there is some kind of uh
+
+1:49:54.400,1:50:03.200
+like uh i can say uh the conflict between 
+like staying in the existing style
+
+1:50:04.640,1:50:11.520
+and also like deviating from the existing 
+style so there is very delicate balance between
+
+1:50:12.640,1:50:23.840
+these two directions so i wanted to make 
+realize that conflict within the gown framework
+
+1:50:24.400,1:50:31.520
+yeah i understand okay uh you mean that uh 
+all artists have uh their own discriminator
+
+1:50:32.080,1:50:39.680
+in their own the one is to imitate another 
+dish and another discriminator is to
+
+1:50:39.680,1:50:51.840
+escape from the uh traditional uh at art so i 
+understand that it's very interesting and it works
+
+1:50:56.240,1:51:01.520
+can you hear me i have a question 
+for your presentation and
+
+1:51:04.000,1:51:12.240
+i understand that you are a scientist and 
+uh have collaborated with us artists so
+
+1:51:13.440,1:51:17.040
+is there any a point that the important point
+
+1:51:17.600,1:51:25.360
+uh to corrupt suspect successful collaboration 
+with artists artists what is the point
+
+1:51:29.120,1:51:29.620
+yeah
+
+1:51:31.680,1:51:40.320
+this is we have to adopt a very different 
+different uh mind when working with artists
+
+1:51:40.880,1:51:49.440
+compared to other work we may do with companies 
+and stuff like that for two reasons uh because
+
+1:51:49.440,1:51:57.040
+they have the main for many reasons in fact 
+they have a different language and we have
+
+1:51:57.040,1:52:03.840
+a different language so we have to understand 
+each other sometimes we use the same word but
+
+1:52:03.840,1:52:11.040
+with different meaning so that we need to create 
+some kind of dictionary between the two community
+
+1:52:13.200,1:52:20.240
+then the artists are not always aware of all 
+of our technological and scientific constraints
+
+1:52:22.480,1:52:28.080
+well what is really uh make me 
+afraid some in some time is that
+
+1:52:29.280,1:52:38.080
+when artists tell me oh i have just a minor 
+detail to change the system the last time they
+
+1:52:38.080,1:52:43.040
+the artists tell us because we work with many 
+different artists but the one we are working
+
+1:52:43.040,1:52:50.320
+with right now the last time she tell me that 
+results in 400 hours of work changing everything
+
+1:52:51.280,1:53:01.360
+uh but it's okay uh at the same time we really 
+learn from the way people are seeing our work
+
+1:53:03.680,1:53:09.360
+the view of the artist is very different from 
+the view we have and it's very close to what the
+
+1:53:09.360,1:53:14.240
+passion tells so it's very important to have this 
+discussion with us because it's opened our mind
+
+1:53:17.840,1:53:28.000
+thank you very much wonderful episode and thank 
+you for all and then we'd like to have some uh
+
+1:53:32.000,1:53:32.500
+uh
+
+1:53:35.120,1:53:43.440
+can you read the chat screen magazine 
+has a question who to uh to question
+
+1:53:46.240,1:53:52.240
+sharing the same point of view uh which are the 
+ownership i see and this is not question hashing
+
+1:53:53.280,1:54:04.000
+then i'd like to have a coffee break to uh for 
+now and we can see the uh screen of a video
+
+1:54:04.000,1:54:13.040
+from arya material and you can see the 
+video from i took in this state in europe
+
+1:54:17.200,1:54:21.840
+with a cup of coffee
+
+1:54:32.240,1:54:35.840
+is
+
+1:54:46.000,1:54:49.840
+foreign
+
+1:55:10.400,1:55:17.840
+the machine
+
+1:55:31.360,1:55:31.860
+foreign
+
+1:56:02.080,1:56:13.840
+foreign
+
+1:56:55.520,1:56:56.020
+okay
+
+1:57:46.400,1:57:51.840
+foreign
+
+1:58:09.520,1:58:19.840
+is
+
+1:58:58.480,1:59:06.800
+five years ago i saw some small demonstrations 
+of it doing like really expressive remapping
+
+1:59:06.800,1:59:15.040
+from like gesture drawing to something somewhat 
+photographic i thought that that was an amazing
+
+1:59:15.040,1:59:22.160
+way to encapsulate knowledge of the figure is 
+in a neural network i can see a lot of the same
+
+1:59:22.160,1:59:28.960
+challenges that the neural network will try to 
+understand that an artist tries to understand
+
+1:59:28.960,1:59:38.400
+the artist controls it from his imagination and 
+his ideas and then he kind of confers the routine
+
+1:59:41.760,1:59:44.960
+that's what i discovered that i was able to do
+
+1:59:44.960,1:59:51.280
+with the ai at a university i did arts 
+but engineering was my primary degree
+
+1:59:52.640,2:00:00.320
+my work is somewhat of the understanding from 
+engineering and then my artistic study as well
+
+2:00:03.680,2:00:07.120
+and so a lot of my photography 
+initially was to support
+
+2:00:07.120,2:00:11.360
+my my own understanding but 
+also the anatomy lectures
+
+2:00:16.880,2:00:22.960
+and that's usually how the the project starts 
+with kind of a concept that i visualize in
+
+2:00:22.960,2:00:29.840
+my imagination and then i try to see if 
+it fits within the techniques that i've
+
+2:00:29.840,2:00:35.920
+explored whether it was possible i guess one 
+of the reasons why maybe my stuff is different
+
+2:00:36.800,2:00:43.680
+i try really ridiculous ideas just to see how 
+interestingly they fail that part of the process
+
+2:00:43.680,2:00:51.920
+is maybe a scientist or a researcher but even as 
+an artist the failure is sometimes beautiful i
+
+2:00:51.920,2:01:07.840
+understand the boundaries of what machine learning 
+can do and then just test it and see what happens
+
+2:02:32.320,2:02:45.840
+hello
+
+2:03:13.520,2:03:16.000
+from japan uh his name is akira
+
+2:03:16.880,2:03:23.120
+just approached the idea of creating characters 
+because he worked for me was like really
+
+2:03:24.000,2:03:34.400
+mind-blowing i decided to uh to find my my way 
+as well i'm trying to convince myself to finish
+
+2:03:35.120,2:03:43.440
+so what i want to do is like a massive 
+project i would say like 10 000 different
+
+2:03:45.520,2:03:50.160
+creatures the tools allow 
+me to work on at this scale
+
+2:03:50.160,2:03:55.840
+and i want to try to see what comes out of it
+
+2:04:08.400,2:04:09.840
+oh
+
+2:04:50.080,2:04:51.840
+oh
+
+2:04:58.880,2:05:05.840
+yes
+
+2:05:09.840,2:05:19.840
+hello
+
+2:05:30.960,2:05:33.840
+something
+
+2:05:34.800,2:05:47.840
+yep
+
+2:05:52.800,2:06:01.840
+yes
+
+2:06:14.160,2:06:15.840
+yes
+
+2:06:30.960,2:06:43.840
+e
+
+2:06:55.440,2:06:57.840
+uh
+
+2:07:53.760,2:07:54.260
+we
+
+2:08:44.800,2:08:49.840
+foreign
+
+2:09:06.720,2:09:10.320
+okay uh thank you very much
+
+2:09:12.560,2:09:20.720
+so i'd like to restart the session 
+from now we'd like to start session two
+
+2:09:22.800,2:09:31.840
+after first the first presentator is professor 
+lionel obadiar from university of lyon 2.
+
+2:09:32.800,2:09:36.960
+what do you say thank you very 
+much for attending this simple gym
+
+2:09:38.320,2:09:44.720
+could you please start your presentation 
+i'm trying you hear me yes i can hear you
+
+2:09:44.720,2:09:49.840
+all right fine i don't have videos and i hope 
+everything will feel right for my presentation
+
+2:09:49.840,2:09:57.440
+oh and i'm really happy and to be there thanks 
+for the invitation i see that there are a couple
+
+2:09:57.440,2:10:03.920
+of people that i know around the table but it is 
+another story so i share my presentation right now
+
+2:10:06.160,2:10:06.660
+and
+
+2:10:09.440,2:10:18.080
+i can see can you see it yes all right let's 
+go for it um i'm just trying to have this um
+
+2:10:19.040,2:10:27.280
+uh well well well i'm sharing but i want to have 
+this okay i'm going like that okay do you see
+
+2:10:27.280,2:10:35.520
+just one one slide okay perfect okay great uh 
+this is a very long title um and a very short
+
+2:10:35.520,2:10:41.680
+reflection that you will see and uh i'm a social 
+and cultural anthropology specialized in religion
+
+2:10:41.680,2:10:48.800
+asian religion to be a clear and i've recently 
+since years a couple of years i'm converting
+
+2:10:48.800,2:10:57.360
+myself to the state anthropological study of 
+digital technologies aaa robotics and and so on
+
+2:10:58.000,2:11:07.920
+so um just one point if i have a problem for 
+the presentation since i do not see all right
+
+2:11:07.920,2:11:16.800
+i do not see my screen name yeah um so a couple of 
+reflections starting from fieldwork that i've been
+
+2:11:16.800,2:11:26.800
+conducting season since one two years ago i tried 
+to submit an erc advance but uh unfortunately and
+
+2:11:26.800,2:11:31.600
+they contrary to other colleagues around the table 
+it was not successful this time that it will be
+
+2:11:31.600,2:11:37.680
+resubmitted this year but digital magic and i'm 
+quite glad to hear that uh professor merely talk
+
+2:11:37.680,2:11:42.560
+about magic but in in the context of robotics 
+this is exactly what i'm trying to explore now
+
+2:11:43.280,2:11:50.800
+um so i will talk about today uh um humans 
+and the the tendency and the and the trends
+
+2:11:50.800,2:11:59.600
+in in robotics uh and in war society to consider 
+that robots and all these kind of 3d aaa forms uh
+
+2:12:00.240,2:12:07.680
+have to be human shaped and what kind of cultural 
+imagination it brings at the forefront of the
+
+2:12:07.680,2:12:12.880
+agenda of a reflection of technology and culture 
+technology and society and technology and history
+
+2:12:13.520,2:12:20.720
+so we all know that the digital revolution impacts 
+uh coming in there a wide range of form and effect
+
+2:12:20.720,2:12:26.000
+in now uh we all agree that we live in 
+networked connected world and society
+
+2:12:26.000,2:12:32.160
+and interaction with these devices small ones 
+big ones have become natural and natural means
+
+2:12:32.880,2:12:41.680
+in our lexicon culturally accepted so we are many 
+now studying these new attitudes representation
+
+2:12:41.680,2:12:48.160
+and cultural frameworks and imagination that 
+give means to technology as they infused society
+
+2:12:48.160,2:12:53.440
+and daily lives and there is this kind 
+of interaction in between technologies
+
+2:12:53.440,2:12:59.120
+and culture and society complete and and 
+ongoing uh feedback in between the twos
+
+2:13:00.080,2:13:05.600
+my anthropological point of view um it's 
+culturally focused it's comparative and
+
+2:13:05.600,2:13:12.000
+i'm conducting ethnography of labs exhibitions 
+enterprises university everywhere where i can
+
+2:13:12.000,2:13:19.040
+find people that are trying to design develop 
+test use and socially distribute these very
+
+2:13:19.040,2:13:24.240
+strange devices called aaa and robots so i'm in 
+the second month i'm professor an entrepreneur at
+
+2:13:24.240,2:13:28.800
+the university of lyon but i'm in the second 
+month right now in two labs the first one is
+
+2:13:30.880,2:13:37.040
+center for the study of internet and society so 
+this is all about um communication device and
+
+2:13:37.040,2:13:43.440
+the sharing information and so on and i'm 
+also associated a member of the institute
+
+2:13:43.440,2:13:48.720
+the systematic religion of the robotic institute 
+for intelligent system and robotics where i'm
+
+2:13:48.720,2:13:56.480
+conducting my field work and among other places 
+where i'm doing this field works and my paper will
+
+2:13:56.480,2:14:02.480
+emphasize images and belief through attitudes 
+children expression and cultural expression
+
+2:14:02.480,2:14:09.840
+thing at large including artistic one but i will 
+not talk about hearts in this presentation today
+
+2:14:09.840,2:14:15.840
+this course on robots especially robots rather 
+than a and other digital device this focus is
+
+2:14:15.840,2:14:24.240
+mainly due to the fact that robots and indeed 
+raise the crucial issue of human shape form of
+
+2:14:24.240,2:14:34.480
+uh technological creations so this paper is not on 
+art except that i'm participating on a uh ongoing
+
+2:14:34.480,2:14:41.040
+research with people that who are working on 
+heart this is a seminar untitled robots on stage
+
+2:14:41.040,2:14:45.760
+interdisciplinary conversions between robotic and 
+theater this is a network and people are working
+
+2:14:45.760,2:14:52.160
+together you can see an image of what they do they 
+are studying plays and robots in place and aaa in
+
+2:14:52.160,2:15:00.240
+plays and and this is one of the place that i've 
+been studying and presented in this network but
+
+2:15:00.240,2:15:08.480
+my focus will be on arts let's say popular arts 
+the movies literature and online these robots a.m
+
+2:15:09.120,2:15:15.200
+and other so-called creators as seen from the 
+side of social sciences and humanities means
+
+2:15:15.200,2:15:23.920
+not users but designers to users on the human side 
+and the empirical studies demonstrate that um we
+
+2:15:23.920,2:15:29.360
+have the evidence that a is everywhere but still 
+it is nowhere because sometimes with the lack of
+
+2:15:29.360,2:15:38.080
+materiality and the previous uh papers underscore 
+this point that we have to materialize and the um
+
+2:15:38.960,2:15:46.000
+it was on your own paper uh put emphasis on 
+the materialization and visualization of these
+
+2:15:46.000,2:15:51.280
+of these devices and software so it depends on 
+the perception of their silence and materiality
+
+2:15:51.920,2:15:58.000
+and the same for the degree of reality of the 
+integration of this device in our life unless
+
+2:15:58.000,2:16:03.920
+i left beside the issue of cultural difference 
+in between foundations japan and france and the
+
+2:16:03.920,2:16:12.560
+united states and so on and um countries with a 
+lower economic development for instance where the
+
+2:16:12.560,2:16:19.200
+issue of this technology is an issue of cultural 
+framework by which this technology are understood
+
+2:16:19.760,2:16:26.320
+is raised in a quite different way but we'll talk 
+about culture and society in general excuse for
+
+2:16:26.320,2:16:34.400
+the very very fast generalization then this is 
+important to take into account that there are the
+
+2:16:35.120,2:16:41.760
+inequal social and cultural distribution of device 
+and their availabilities skills and knowledge and
+
+2:16:41.760,2:16:48.080
+i heard uh several times this morning the issue 
+of failures the issue of not understanding the
+
+2:16:48.080,2:16:54.000
+issue of something that's something wrong in the 
+in the behavior of the machines and still this is
+
+2:16:54.000,2:16:59.359
+really important to understand oh as well what 
+humans provide as meanings and especially when
+
+2:16:59.359,2:17:07.599
+it's about non-rational means um again these 
+robots aa software and algorithm and so on
+
+2:17:07.600,2:17:13.280
+uh uh distributed on a different scale they are 
+very small one that i that is hidden for instance
+
+2:17:13.280,2:17:20.160
+in in a in a smartphone application and other ones 
+that take the shape of a big robot that you can
+
+2:17:20.160,2:17:27.840
+face you can have a face-to-face interaction 
+then one thing is striking is the fact that um
+
+2:17:28.560,2:17:34.399
+not most not all but a significant 
+part of these devices are shaped
+
+2:17:34.399,2:17:41.679
+against the uh human face or human shaped or 
+human body shape um and it raised the question
+
+2:17:41.680,2:17:47.600
+uh how are we trying to make new humans or 
+are they still machines and it raised the
+
+2:17:47.600,2:17:55.840
+outcomes of the issue of mimesis in between 
+humans and machine on both sides for instance
+
+2:17:56.800,2:18:02.399
+besides um the issue that social sciences 
+and humanities are trying to raise and
+
+2:18:02.399,2:18:09.280
+trying to explore is the interaction in 
+between these humans and devices and the
+
+2:18:09.280,2:18:15.439
+correspondence in between human to human social 
+relationship and human device relationships and
+
+2:18:15.439,2:18:21.919
+in reality only in imagination and this is 
+a war scenario for science fiction movies uh
+
+2:18:22.720,2:18:27.520
+machines to machine communication against human 
+that you know that this is a really this topic
+
+2:18:28.080,2:18:33.920
+and a quite widespread scenario of 
+robots against humans this is one of the
+
+2:18:34.880,2:18:45.680
+most used uh let's say a background by which we we 
+imagine uh the the future in movies especially in
+
+2:18:46.720,2:18:52.800
+in in famous north americans so 
+we have different side different
+
+2:18:52.800,2:18:57.680
+forms of materiality from flat devices 
+screen that are everywhere on 3d devices
+
+2:18:58.319,2:19:05.679
+robots for instance and 3d that can be real if you 
+see a machine acting that's why fights on the uh
+
+2:19:06.399,2:19:13.200
+professor merely as demonstrated but also 
+uh you can see also 3d uh device this is a
+
+2:19:13.200,2:19:18.399
+3d representation but what's new uh as an 
+anthropologist i'm interested in the fact
+
+2:19:18.399,2:19:23.839
+that they are continuities and rupture in the 
+relationships in between humans and material
+
+2:19:23.840,2:19:30.560
+environment through techniques and um i'm 
+quite fond of this theory that imagine that
+
+2:19:30.560,2:19:36.960
+there is kind of a ongoing relationship to 
+uh materiality and to things that we shape
+
+2:19:38.080,2:19:43.280
+so humans seems to have always been 
+interested in mediating their relationship to
+
+2:19:43.280,2:19:49.439
+reality thanks to technology at large start 
+with very very primitive technologies and it
+
+2:19:49.439,2:19:55.759
+end up in hyper modern and quick massive wave of 
+all these devices that are colonizing our life
+
+2:19:55.760,2:20:01.760
+robots conversational agent algorithm software 
+robots connected objects and so on for many
+
+2:20:01.760,2:20:07.440
+different purposes domestic military education 
+artistic purpose for instance aid generated
+
+2:20:08.080,2:20:15.120
+by arts or a as inspiration for artists as a 
+representation then we live in this new ecosystem
+
+2:20:15.120,2:20:23.840
+of so-called anthropology significant other are 
+mediated so the anthropological outlook on this
+
+2:20:24.479,2:20:31.359
+is that if we raise issues regarding our 
+relationship to a technological device and
+
+2:20:31.359,2:20:39.519
+robots for instance there are already topics like 
+ethics and trust this has been already treated and
+
+2:20:40.160,2:20:45.840
+discussed by psychology philosophy and law but ssh 
+can bring like a lot of dimension taste and proof
+
+2:20:46.399,2:20:53.920
+uh from the appeal to robots and and aaa and the 
+belief in these devices are animating by something
+
+2:20:54.880,2:21:00.400
+and then anthropology sorry for uh insisting 
+on this point but uh want to highlight
+
+2:21:01.120,2:21:08.080
+how humans are in practice creative with machine 
+and how also they inject imagination futuristic
+
+2:21:08.080,2:21:14.960
+scenario and even present scenario and how the 
+scenario infused society and my interest raised in
+
+2:21:14.960,2:21:22.000
+the fact that this scenario also impacts different 
+sectors society including technological ones
+
+2:21:22.000,2:21:29.040
+means that the people that are building these 
+technologies are actors like uh all all other
+
+2:21:29.040,2:21:36.080
+actors and they are um influence uh from the best 
+for the worst influenced by this imaginary frames
+
+2:21:36.640,2:21:41.440
+and then i will focus on image and imagination 
+through these screens and visual culture
+
+2:21:42.720,2:21:48.960
+but let's start for the beginning and 
+these new mechanics automats robots
+
+2:21:49.920,2:21:55.200
+located according to the frame of imagination 
+at the frontiers between humanity and the
+
+2:21:55.200,2:22:01.760
+rationality between fiction and realism and 
+especially human human with robots that capture
+
+2:22:01.760,2:22:10.000
+maybe most maybe more than even all the other ones 
+um this kind of imagination and then there is an
+
+2:22:10.000,2:22:16.399
+interesting discussion in robotics right now uh 
+the um tracing back to meteorological routes this
+
+2:22:16.399,2:22:24.000
+is a widespread tendency and there are two trends 
+that if you as an anthropologist read literature
+
+2:22:24.000,2:22:30.880
+in robotics not not very technical but more open 
+to history and culture and you see that there are
+
+2:22:30.880,2:22:39.359
+um sub-community of roboticians that think that 
+uh ar robots are in rupture with ancient ancient
+
+2:22:39.359,2:22:44.639
+forms means that it used to be some kind of 
+representation and either human shape the
+
+2:22:45.359,2:22:52.559
+things uh quasi human for instance talos that 
+you see that has been built by ephrais and the
+
+2:22:52.560,2:22:59.600
+feistos have already been mentioned uh today not 
+not the program but the the ancient uh greek code
+
+2:22:59.600,2:23:06.479
+and uh other ones that think that air and robots 
+are only the continuity of an ongoing mythological
+
+2:23:06.479,2:23:15.040
+mental scheme in the human brain and these 
+continuity can be seen as well in what is called
+
+2:23:15.040,2:23:22.399
+now the animistic design of new technologies 
+and the idea that there is something inside
+
+2:23:22.399,2:23:29.280
+something that is hunting the technology something 
+like a soul or something that does it above or
+
+2:23:29.280,2:23:37.679
+beyond um the rationality and the purely mechanic 
+uh life of things and this even turns to a
+
+2:23:38.319,2:23:44.240
+modern religious robot i take two examples here 
+and one in china and one in the west these are
+
+2:23:45.120,2:23:51.200
+robot priest and in some context even the 
+religious system clearly accept the presence
+
+2:23:51.200,2:23:59.359
+of robots but as vehicles of belief and one 
+thing is really important is that we are
+
+2:23:59.359,2:24:06.719
+witnessing something really really different now 
+it's a belief in robots and they believe in a as
+
+2:24:06.720,2:24:13.680
+religious schemes as as a religious object 
+and to mention the rise of the thanks to uh
+
+2:24:13.680,2:24:19.680
+because of lewandowski i used to be a an 
+engineer at google the first church of
+
+2:24:19.680,2:24:28.400
+aaa that considered that air is a godlike create 
+but these robots and i focus here only on robots
+
+2:24:30.800,2:24:36.000
+it comes under a vast array of types and 
+prototypes you can have small parts of
+
+2:24:36.000,2:24:45.040
+the body and you can have the full human humanoid 
+body and this is thanks to uh uh also a clear and
+
+2:24:45.040,2:24:52.479
+quick advance in uh personal robotics in biomimi's 
+sensor elaboration algorithm-inspired emotions and
+
+2:24:52.479,2:25:00.399
+and so on that makes some of the uh organizations 
+and enterprises creating robots uh attempting to
+
+2:25:00.399,2:25:06.160
+create robots more and more resembling to 
+human bodies and if you allow me a slogan
+
+2:25:06.160,2:25:12.960
+because anthropologists like to produce slogan 
+we shifting from bios the system setup to buy us
+
+2:25:12.960,2:25:20.000
+life within these robots and uh this is a 
+kind of witnessing or revealing unveiling
+
+2:25:20.000,2:25:25.680
+this obsession for anthropomorphism and and 
+one thing is surprising striking is even the uh
+
+2:25:25.680,2:25:32.800
+representation of aa as a software the flat device 
+is entropromorphized as you can see on the on the
+
+2:25:33.439,2:25:38.960
+on the small picture on the right uh because 
+of intelligence and intelligence it's supposed
+
+2:25:38.960,2:25:45.439
+to be in the brain uh but there are also other 
+other theories about intelligence uh anyway um
+
+2:25:46.319,2:25:54.240
+all this brings us to the idea that we start from 
+and end up in the representation of human body
+
+2:25:54.800,2:26:00.160
+and then these new programs in human centered 
+a.a and robotics tend to respond or seem to
+
+2:26:00.160,2:26:06.160
+respond to this human tendency to consider 
+technology as a replication of living real
+
+2:26:06.160,2:26:14.639
+real hard actions but these humans are flat 
+or 3d almost human or meta human and so on um
+
+2:26:16.319,2:26:23.519
+range among very different uh 
+forms and only the adjective
+
+2:26:24.319,2:26:30.160
+seems to validate and you keep the human 
+substantive noon and you take a lot of
+
+2:26:32.000,2:26:38.160
+they inspire a lot of adjectives depending 
+on what you mean and there are at least three
+
+2:26:38.160,2:26:43.680
+epistemological regimes that you can raise 
+after this adjective for instance they said
+
+2:26:43.680,2:26:49.520
+like humans almost humans are meta-humans 
+if you consider that these humans resemble
+
+2:26:50.319,2:26:56.399
+humans only if they are almost human that they 
+tend to be human that they will be one day
+
+2:26:56.399,2:27:06.080
+as human or just like human and the meta humans 
+is they are supposed to be above humans and in my
+
+2:27:06.080,2:27:14.399
+research i'm conducting a interesting experience 
+in which i i ask people to react in faith in
+
+2:27:14.399,2:27:20.399
+front of all these meta humans for instance you 
+see that on my screen this is on the left but
+
+2:27:20.399,2:27:25.599
+on your screen it may be on the right this is 
+this they are quite handsome lady this but this
+
+2:27:25.600,2:27:33.201
+person does not exist because it's a a generated 
+face and also there are um these double humans
+
+2:27:34.000,2:27:39.120
+for instance this character of star wars that 
+was his towers one and died in the meantime
+
+2:27:39.120,2:27:45.760
+and was recreated through aa techniques 
+to incarnate a new character in recent uh
+
+2:27:46.560,2:27:51.359
+star wars movie even if he's dead but he has the 
+same face he has the same movement and of course
+
+2:27:51.359,2:27:59.599
+he has the same voice and the uh digital human 
+experience it's also interesting because it's a
+
+2:27:59.600,2:28:07.760
+conversation conversational agent with uh um face 
+attitudes so you feel like you are talking with
+
+2:28:07.760,2:28:15.440
+something that is almost human not really human 
+it's in between and creating a very very strange
+
+2:28:16.399,2:28:23.759
+um different ways to uh being human race of 
+course a series of questions and i'm trying to
+
+2:28:24.319,2:28:30.080
+frame them after um different questions 
+and different theoretical patterns to uh to
+
+2:28:31.920,2:28:38.399
+put concept on them uh first the issue that 
+has been raised previously or as well the
+
+2:28:38.399,2:28:47.519
+acceptance of these virtual humans uh we 
+i'm talking in front of people from japan
+
+2:28:47.520,2:28:54.400
+so mori's famous uncanny valley is still a 
+concept that will still discuss but was just
+
+2:28:55.680,2:29:02.640
+a very specific step in the perception and 
+interaction with a very specific type of of
+
+2:29:02.640,2:29:09.439
+machine and robot but the uncanny valley has been 
+widespread in the meantime and now this is a huge
+
+2:29:09.439,2:29:16.799
+concept that we can uh manipulate and redefine in 
+order to understand what what's the thrill that
+
+2:29:16.800,2:29:21.920
+you have when you meet these non-humans but 
+they are also human they are in between and
+
+2:29:21.920,2:29:29.520
+this is uh the open door to uh understanding the 
+very magical uh thinking uh that is in between
+
+2:29:30.399,2:29:36.479
+humans and mesh so these devices assume different 
+forms they are co-operative functional therapeutic
+
+2:29:36.479,2:29:42.479
+friendly assistive and so on and they create a 
+vast array of emotion as well but these emotions
+
+2:29:42.479,2:29:48.559
+are mixed together they create anxiety fear for 
+instance people are really afraid of robots thanks
+
+2:29:48.560,2:29:55.040
+are due to science fiction movies or literature 
+but also because they are across the road of of
+
+2:29:55.760,2:30:02.800
+of robots and uh but this is not always the case 
+most of the of the time the people have fun with
+
+2:30:02.800,2:30:07.359
+robots and there and to a certain extent 
+and a very specific context they also feel
+
+2:30:07.359,2:30:13.200
+empathy and love and sense of security but uh i'm 
+talking about this therapeutic robot's name paul
+
+2:30:14.000,2:30:22.240
+which is made for all people with a psychiatric 
+psychological trouble and then um they are
+
+2:30:23.600,2:30:30.319
+something that is coming in between what i call 
+the three t but uh this isn't that time and if it
+
+2:30:30.319,2:30:36.880
+doesn't work uh please tell me and please create a 
+space for discussion in order to contradict these
+
+2:30:37.600,2:30:44.399
+these um these atoms to uh theorize uh the human 
+to robots relationships the tools of this robot
+
+2:30:44.399,2:30:49.920
+are first tools but they are also toys we are 
+playing with these devices and coming back to
+
+2:30:49.920,2:30:56.080
+this in in a second and they are also conditions 
+i mean temptation because we create something more
+
+2:30:56.080,2:31:01.920
+than a relationship we get also emotions and 
+we are committed to this device for instance
+
+2:31:01.920,2:31:08.399
+uh this kind of uh obsession with this device 
+up to uh sexual desires because now we are
+
+2:31:08.960,2:31:14.960
+witnessing the rise of sexual robots and not only 
+in asian countries but also in europe and north
+
+2:31:14.960,2:31:22.960
+america and then i think that and this may be also 
+a certain way to get closer to the artistic milieu
+
+2:31:23.760,2:31:29.600
+thinking about play play in three different 
+terms of three different definitions of the terms
+
+2:31:29.600,2:31:34.640
+first is playing with reality we are in a game 
+and there is something happening that we know
+
+2:31:34.640,2:31:41.120
+this is not exactly reality but we are trying 
+to play with reality and the second is to play
+
+2:31:41.120,2:31:47.680
+in a non-real but real context i mean playing 
+like you are a character in a theater then you
+
+2:31:47.680,2:31:53.040
+knew you know that you are doing something that 
+seems real but it's not real that's like a game
+
+2:31:53.040,2:32:00.560
+but now you are playing like a character and all 
+this brings us to play as fun because um people
+
+2:32:00.560,2:32:07.201
+enjoy uh doing this thing they enjoy they are they 
+have a lot of positive emotion and they are also
+
+2:32:07.840,2:32:16.080
+counterbalanced by negative emotions at that time 
+but these emotions this effervescence uh against
+
+2:32:16.080,2:32:22.640
+uh robots and the relationship with robots give 
+rise to really interesting scenarios from the
+
+2:32:22.640,2:32:30.080
+science fiction and there are four examples of 
+robots that are purely autonomous imaginative
+
+2:32:30.080,2:32:35.840
+they are driven by emotions even if they are 
+not supposed to have emotion for instance in the
+
+2:32:35.840,2:32:42.479
+the lady on the right is a robot named arisa in a 
+series that you can find on netflix better than us
+
+2:32:42.479,2:32:49.759
+and she ends up in sacrificing herself to 
+prevent the life of the family and she is
+
+2:32:49.760,2:32:56.720
+in love with the dad of the family but there as 
+you can see also yule bruner just before um is
+
+2:32:56.720,2:33:04.160
+uh is a pure uh emotionless robot he's killing 
+people in the first movie in the 70s of um of
+
+2:33:05.359,2:33:13.759
+west westworld but he's driven by anger so um he 
+shows no emotion but he's killing people because
+
+2:33:13.760,2:33:21.200
+uh he wants to he wants revenge against the human 
+all this is developed in the realm of scenario in
+
+2:33:21.200,2:33:27.679
+the real imagination and so on but on the field 
+when i'm studying uh for instance in the easier
+
+2:33:28.399,2:33:34.639
+this uh this robot that you can see on the on the 
+left the so-called baxter robot in which their
+
+2:33:34.640,2:33:42.880
+motion um trying to trying to make this motion 
+more sophisticated and the uh two examples taken
+
+2:33:42.880,2:33:48.399
+from an exhibition in which they are collaborative 
+robots small ones that are supposed to be vacuum
+
+2:33:48.399,2:33:54.639
+cleaner robots collaborative with each other and 
+the famous paper which is welcoming people at the
+
+2:33:54.640,2:34:02.560
+uh start the uh at the door of the exhibition 
+and then we get back to a crude reality and
+
+2:34:02.560,2:34:07.760
+one of the researchers in robotics told me we 
+are quite far from terminator and around three
+
+2:34:08.720,2:34:15.680
+and then why there are so different narrative 
+and um you know that we know we all know that
+
+2:34:15.680,2:34:22.399
+technologies are embedded in nets of meaning and 
+to enter it in this narrative but uh do these
+
+2:34:22.399,2:34:29.679
+autonomous devices need narrative and of what kind 
+and i allow myself the the chance to divide this
+
+2:34:29.680,2:34:34.319
+narrative in between scientific narrative and 
+fiction narrative even if they mix each other
+
+2:34:34.319,2:34:40.639
+the distinction between the the two of them is 
+just purely theoretical but scientific narratives
+
+2:34:40.640,2:34:47.680
+tell history of technology and fiction narrative 
+that history about about technology and leave room
+
+2:34:47.680,2:34:54.720
+to very strange things that are coming up to be 
+reality right now for instance imagining that
+
+2:34:54.720,2:35:01.040
+there are robots everywhere like in the drawings 
+helping children helping elder people and bringing
+
+2:35:01.680,2:35:08.160
+parcels to homes and so on and making love with 
+a robot find something that you can imagine but
+
+2:35:08.160,2:35:14.960
+these two images are also counterbalanced 
+by the fact that we uh uh already have uh
+
+2:35:14.960,2:35:22.960
+uh virtual girlfriends in japan and uh so 
+this wasn't essay um and and the papers in
+
+2:35:24.560,2:35:30.960
+helping for elder people in their homes so 
+we are not quite far from scientific and
+
+2:35:30.960,2:35:36.880
+fiction narrative in the reality that we are 
+living but the most interesting is not that
+
+2:35:36.880,2:35:42.960
+okay we can explore and explore and explore these 
+fictional narratives but these narratives end up
+
+2:35:42.960,2:35:48.960
+being storytelling for robotics organizations 
+and enterprises first there are a lot of people
+
+2:35:48.960,2:35:53.840
+are telling us that this is the story this 
+is a theological narrative we are going
+
+2:35:54.479,2:36:00.319
+towards the inescapable origin of robots in 
+society and that's almost human in society and
+
+2:36:00.319,2:36:08.399
+there are two famous enterprises that use a lot of 
+uh media technologies such as youtube to produce
+
+2:36:08.960,2:36:16.960
+uh different videos uh hanson robotics and boston 
+dynamics they are very famous and the first one is
+
+2:36:16.960,2:36:24.720
+created sofia this human shape robot face which 
+is able to have a conversation with the humans
+
+2:36:24.720,2:36:33.840
+and these are very famous very uh sports uh robots 
+that are keen to accomplish very very uh difficult
+
+2:36:35.280,2:36:43.439
+motions and these are very spectacular performance 
+and they are broadcast intentionally by these
+
+2:36:43.439,2:36:48.639
+enterprises and this is fascinating for the wide 
+audience and a lot of people discussing this as
+
+2:36:48.640,2:36:55.201
+oh this is the future robots you see that women 
+robots and these uh these very strong and even um
+
+2:36:56.640,2:37:01.200
+military robots and but this is upsetting 
+for the robotician i'm working with
+
+2:37:01.200,2:37:06.319
+they said okay this is just spectacular 
+things but this is not the reality of robotics
+
+2:37:06.319,2:37:13.280
+as it is developing right now but 
+interestingly uh these same atoms to
+
+2:37:13.280,2:37:19.519
+broadcast the um the performance of robotics 
+brings about dystopian scenario and this is all um
+
+2:37:20.479,2:37:28.879
+except for the uh killer robot uh down in the 
+slide but the two ones the robots is fighting back
+
+2:37:29.760,2:37:35.040
+boston dynamics roadways is fighting back against 
+human and uh sofia van hansen robotics telling
+
+2:37:35.040,2:37:43.760
+okay i will destroy humans these are fake um fake 
+videos but um this means that the kind of uh janus
+
+2:37:44.560,2:37:51.120
+side of the of the coin when you try to broadcast 
+an eutopian future and said okay we live with
+
+2:37:51.120,2:37:58.000
+this very very powerful performance and very 
+powerful robots and immediately they are also
+
+2:37:59.359,2:38:06.319
+contrary visions and contrary imaginations and 
+then it brings me i'm almost finished to the what
+
+2:38:06.319,2:38:12.479
+i call the cultural walls in digital revolution 
+because my approach is also a sociological one
+
+2:38:12.479,2:38:17.040
+i'm trying to understand position discourse and 
+framework of imagination and the way they are
+
+2:38:17.040,2:38:24.560
+intentions and from this field work i'm framed for 
+ideative attitudes to aaa and robots especially
+
+2:38:24.560,2:38:29.200
+robots in this case what i call technologies 
+that means engineers and technicians that are
+
+2:38:29.200,2:38:35.359
+elaborating robots and most of them told me that 
+okay this is all but spectacular screen and this
+
+2:38:35.359,2:38:41.280
+is a software and we are trying to frame algorithm 
+and then to see to test the movement and the part
+
+2:38:41.280,2:38:47.840
+of the law and so on and this is quite long and 
+quite rigorous uh way of of doing things and on
+
+2:38:47.840,2:38:54.160
+the other side they are what i call technologies 
+don't leave guys that come on tv and write books
+
+2:38:54.160,2:38:59.760
+and say okay the future of the digital age will 
+be robots everywhere sometimes they are the same
+
+2:38:59.760,2:39:06.240
+elon musk for instance is a pure technology 
+and uh these prophets of the digital age
+
+2:39:07.120,2:39:17.359
+and describe the future as a full of these devices 
+may be it for uh critic critics be it for kind of
+
+2:39:17.359,2:39:24.080
+valorization of this also there are technophilians 
+developers and users that are fascinated by these
+
+2:39:24.080,2:39:30.880
+new technologies and technophobians okay four 
+positions but the surprise come by the fact that
+
+2:39:30.880,2:39:38.880
+we are not only and not really in a face-to-face 
+confrontation with you on the one side those
+
+2:39:38.880,2:39:44.800
+who believe in the future of robots and robotics 
+and say okay there are technologies we live robots
+
+2:39:44.800,2:39:51.280
+will be like gods like new angels like new spirits 
+of the time and the other side technologies that
+
+2:39:51.280,2:39:56.479
+bring this back to the crude reality and 
+saying that this is not exactly that this
+
+2:39:56.479,2:40:04.319
+we have to be rationalists this is all all but all 
+that reality and more most of the time we find in
+
+2:40:04.319,2:40:09.519
+the scientific literature this kind of tension 
+between rationality and irrationality but it's
+
+2:40:09.520,2:40:14.800
+much more complex than that because first i 
+give two examples technologies for instance can
+
+2:40:14.800,2:40:20.880
+be technophobians and in my field work i met some 
+people that create robots but fear the development
+
+2:40:20.880,2:40:26.720
+of aaa in the same time these are the same people 
+and this is the complexity of human feelings and
+
+2:40:26.720,2:40:32.399
+human attitudes and for instance on the other 
+way uh technophilians people that like this
+
+2:40:32.399,2:40:38.719
+technology are not always always technologies and 
+most of the user in your ignore the process on and
+
+2:40:38.720,2:40:46.160
+the design of creating technologies and finally 
+technologies can inspire but not always and annoy
+
+2:40:46.160,2:40:51.840
+but also inspire technologies for instance we 
+know that in france they are they have been not in
+
+2:40:51.840,2:40:59.200
+france not only but elsewhere invitation from the 
+government um and the organization and invitation
+
+2:40:59.200,2:41:06.160
+for scientists and authors to imagine matching and 
+scenario for the for the future so it's not only
+
+2:41:06.160,2:41:12.559
+coming from the technological mid and slide 
+and i'm finished and sometimes technologist
+
+2:41:12.560,2:41:17.600
+meets technology and there is at least one 
+enterprise in france i'm doing field work with who
+
+2:41:17.600,2:41:25.439
+level their products enchanted tools and i set up 
+even a marvel section because when they create aaa
+
+2:41:25.439,2:41:30.799
+and robots they know that they are designed with 
+their own history and the imaginary framework they
+
+2:41:30.800,2:41:36.560
+sell you the robots and the cultural and symbolic 
+universe of the robot they all come together
+
+2:41:36.560,2:41:42.399
+and like alice and wonderland in the same 
+time you cannot have without the others and
+
+2:41:42.399,2:41:47.599
+this kind of reconciliation in between fiction and 
+science fiction between imagination and technology
+
+2:41:48.160,2:41:56.000
+uh then uh this is thanks to imagination robots 
+then there are more much more in the line of
+
+2:41:56.000,2:42:03.040
+social exception acceptation and and this 
+enterprise is supposed to be on the technologist
+
+2:42:03.040,2:42:11.359
+really rationalist regional side uh leave room 
+for uh imagination and uh help this creative
+
+2:42:11.359,2:42:19.519
+relationship uh with robots and a.m and blur the 
+frontiers and give party ground for imagination
+
+2:42:19.520,2:42:27.200
+i come from the east side of the of the creators 
+of rob and at final reflection just a sum up of
+
+2:42:27.200,2:42:34.080
+these points this is all again an ongoing research 
+and these are some results but not all the results
+
+2:42:34.080,2:42:40.559
+um this paper was just to reflect upon the issues 
+of sciences i determined to a digital revolution
+
+2:42:40.560,2:42:46.560
+and a very specific object in digital revolution 
+especially robots and the anthropological point
+
+2:42:46.560,2:42:51.600
+of view that has been adopted here was from 
+the bottom from the actor's point of view
+
+2:42:51.600,2:42:57.840
+and how and why and who produce what kind 
+of technological imagination or imagination
+
+2:42:57.840,2:43:04.640
+projected on technologies and these human shape 
+devices that are present here today are a good
+
+2:43:04.640,2:43:10.560
+example but are not the only one and all have 
+been said now i might be counter balanced and
+
+2:43:11.520,2:43:16.880
+critically converted to other devices and 
+other conditions of producting and using these
+
+2:43:16.880,2:43:24.319
+technologies um of course these are technologies 
+are also source of different kind of images and
+
+2:43:24.319,2:43:32.319
+surrounded by a different framework of imagination 
+but my conclusion is creative imagination is not
+
+2:43:32.319,2:43:38.559
+always where we think it is and the appropriation 
+of these devices in the media of artistic media
+
+2:43:38.560,2:43:50.880
+is a key evidence of this point but my look was 
+on the technological media and the and uh widening
+
+2:43:50.880,2:43:58.319
+communities of roboticians and this imaginary uh 
+cultural imaginary then can nurture or prevent
+
+2:43:58.319,2:44:05.840
+the advance of and in technologies i mean um and 
+this is my final conclusion we always from side to
+
+2:44:05.840,2:44:11.200
+side from the beginning of thinking about robots 
+a and digital technology and producing them and
+
+2:44:11.760,2:44:18.320
+distributing disseminating them in in societies 
+and culture think about the the very crucial role
+
+2:44:19.120,2:44:26.479
+of imagination it means images and ideologies 
+surrounding these technologies thank you
+
+2:44:29.920,2:44:37.920
+thank you very much professor obadiah 
+for wonderful presentation and i
+
+2:44:37.920,2:44:46.240
+love this kind of topics so i have so many 
+issues to this i'd like to discuss with you
+
+2:44:46.240,2:44:53.439
+but uh the first i'd like to start uh the 
+two three more presentation for this session
+
+2:44:53.439,2:45:03.839
+then i'd like to discuss all with us so the next 
+uh i'd like to welcome miss b chen from china
+
+2:45:04.399,2:45:12.799
+she's artist and she's a great artist 
+and i'm honored to be welcome here bison
+
+2:45:13.760,2:45:20.880
+could you please start your presentation 
+sure thanks eduson for the introduction
+
+2:45:21.680,2:45:29.040
+um so today i'm going to share some of the 
+experience i developed after i returned to china
+
+2:45:30.800,2:45:41.840
+so it's great to to be here and so i'm sharing 
+the screen now can you see it can you see it
+
+2:45:53.600,2:46:03.840
+sorry let me just yeah so i will i will ask 
+my avatar to do this presentation for me today
+
+2:46:06.479,2:46:09.839
+okay who okay
+
+2:46:18.880,2:46:24.720
+yes i can hear you no doubt that technology 
+has played an increasingly important role
+
+2:46:24.720,2:46:30.640
+since the 20th century humans have 
+to face multiple crisis and dilemmas
+
+2:46:30.640,2:46:39.279
+from nature society and humans themselves in such 
+a closely interconnected world can the collusions
+
+2:46:39.279,2:46:46.080
+of different cultures and ideas inspire creations 
+that helps technology develop the better solutions
+
+2:46:51.200,2:46:57.920
+hello everyone my name is vincent thanks to 
+dr either for the invitation it's my great
+
+2:46:57.920,2:47:01.120
+pleasure to be here with other 
+professionals at this workshop
+
+2:47:03.120,2:47:09.359
+i'm interested in the relationship between 
+humans and technology to be more specific
+
+2:47:09.359,2:47:14.160
+i'm interested in how humans perceive or 
+understand technology in a different culture
+
+2:47:15.040,2:47:20.240
+i have studied at m8 design interactions 
+with professor raby at the london royal
+
+2:47:20.240,2:47:26.000
+college of arts that's also why a part of my 
+work includes speculative future scenarios
+
+2:47:30.240,2:47:36.960
+technology has been around since the dawn of 
+humanity from stones for hunting to sticks to join
+
+2:47:37.600,2:47:44.160
+all of which are the products of technology 
+in human society in this time although
+
+2:47:44.160,2:47:51.359
+technology is presented similarly in general due 
+to the globalization nowadays since i moved back
+
+2:47:51.920,2:47:54.480
+i have found a common phenomenon in china
+
+2:47:55.040,2:48:01.840
+people have a pretty different view of technology 
+than what i haven't seen in other countries
+
+2:48:05.920,2:48:08.880
+there is a park at center of beijing called
+
+2:48:09.439,2:48:14.799
+temple of heaven which seems to have become 
+a testing ground for local creativity of
+
+2:48:14.800,2:48:21.600
+innovation even the toilet in this park have 
+equipped it with face recognition technology
+
+2:48:25.279,2:48:31.359
+going to the loo in his park must not be an 
+overly urgent task like in no times you can
+
+2:48:31.359,2:48:36.399
+only get the pieces of toilet paper after taking 
+off your head and your glasses and staring at the
+
+2:48:36.399,2:48:43.599
+machine for three seconds the slowly dripped 
+toilet paper is limited each time so if you
+
+2:48:43.600,2:48:51.439
+need more you may have to repeat the progress 
+a few times before go into the toilet oh and
+
+2:48:51.439,2:48:57.839
+you can also get the toilet paper from the front 
+looking of pikachu i have texted through my phone
+
+2:49:00.800,2:49:04.640
+there are many more cases here 
+from a noodles performance robot
+
+2:49:05.439,2:49:12.559
+to a piano that can grill lamp kebabs to 
+the shenzhen's smartphones chinese citizens
+
+2:49:12.560,2:49:20.240
+have unique optimistic altitudes on technology 
+these attitudes re-establishments how they live
+
+2:49:20.240,2:49:25.840
+in their living environment which 
+also influenced my art creations
+
+2:49:29.040,2:49:35.680
+the ancient chinese cosmology there's a set of 
+thoughts and rules behind the seemingly magical
+
+2:49:35.680,2:49:45.040
+talisman it is a virtual miss blended with reality 
+such as rim making ceremony and at the same time
+
+2:49:45.040,2:49:52.240
+is the most sensory reflection of how people 
+at each time have understood their natural
+
+2:49:52.240,2:50:00.479
+environment resembles the way how algorithms and 
+data shapes are meant fulu is a thousand talisman
+
+2:50:01.040,2:50:09.120
+that uses writing a meditation spell and spiritual 
+power to scare away evil spirits attract fortune
+
+2:50:09.120,2:50:16.640
+or perceived peace in the space they are hung 
+up or paced onto fulu is a drawing consisting
+
+2:50:16.640,2:50:23.680
+of chinese characters with a mythological origin 
+more than writing that merely describes the word
+
+2:50:24.399,2:50:32.479
+these characters have a magical relationship with 
+them that allows them to act upon reality nowadays
+
+2:50:32.479,2:50:39.679
+the word of network's timo lecra gradually 
+adopts and even replaces reality benefit tissue's
+
+2:50:39.680,2:50:46.880
+narrative of data becomes resources or even 
+capsule the emergence of blockchain technology
+
+2:50:46.880,2:50:52.319
+and its decentralized worldview make it possible 
+for internet nomads to build a better life
+
+2:50:54.240,2:51:00.319
+and these fictions are often regarded 
+as objective depictions of reality
+
+2:51:02.319,2:51:09.120
+the character shu in old chinese means method 
+skill extending from the meaning of the past
+
+2:51:10.000,2:51:16.319
+shu also expressed both technology and the 
+witchcraft which presents fiction there are also
+
+2:51:16.319,2:51:24.080
+cases of fictional transformations of reality 
+in the records of dynasty in the novel heroes
+
+2:51:24.080,2:51:31.439
+of wood marine may eventually their depictions of 
+diced monks and rivers who armed solely with diced
+
+2:51:31.439,2:51:40.319
+tools and witchcraft were able to overcome the 
+machines and bring liberation for exploited people
+
+2:51:42.000,2:51:49.760
+continuing with this fiction or ancient wish of 
+the qing dynasty i have created a speculative work
+
+2:51:49.760,2:51:56.080
+a series of contemporary fools for the society 
+that is entirely overtaken by technology
+
+2:51:57.359,2:52:03.759
+this attempts to help people break the current 
+human dilemma that both by the technology
+
+2:52:04.319,2:52:07.840
+and to explore the value of fictional realities
+
+2:52:10.000,2:52:14.399
+in this work i invited hong kong 
+calligrapher quinzo to invent
+
+2:52:15.279,2:52:21.439
+some food together to harness the invisible 
+magnetism of algorithms in combination with
+
+2:52:21.439,2:52:28.160
+ancient beliefs for example the image on 
+the screen is for bitcoin holders it can
+
+2:52:28.160,2:52:35.519
+convert any electronic devices into a bitcoin 
+mining machine for attracting more bitcoins
+
+2:52:36.880,2:52:45.840
+we decided to let this alternative future 
+so so now you can get those flu online
+
+2:52:55.120,2:52:55.840
+technology
+
+2:52:58.000,2:53:02.560
+new techniques a type of liberation 
+and autonomy or just enough
+
+2:53:07.439,2:53:10.559
+use in space be liberated or trapped
+
+2:53:17.840,2:53:18.560
+in his book
+
+2:53:22.479,2:53:23.839
+only
+
+2:53:28.720,2:53:33.360
+thoughts have succeeded in tips but
+
+2:53:35.920,2:53:41.040
+also helped general products not all asian
+
+2:53:43.680,2:53:51.840
+essentially in the exact nature like this
+
+2:53:59.439,2:53:59.939
+hmm
+
+2:54:04.160,2:54:05.840
+peace on
+
+2:54:08.560,2:54:10.161
+is is it disconnected
+
+2:54:12.720,2:54:20.960
+hello b sound are you here hello okay i think 
+i saw some icons appear on my laptop said
+
+2:54:20.960,2:54:27.760
+connection is not good can you hear 
+me now can you hear me now yes yes
+
+2:54:27.760,2:54:35.680
+okay so i will start sharing again 
+okay okay can i say it yes okay cool
+
+2:54:45.040,2:54:47.840
+you
+
+2:54:49.040,2:54:58.160
+to allow the public to encounter their world 
+anew a german noise assignment transported 1999
+
+2:54:58.160,2:55:04.960
+used smartphones on trolley surreal streets of 
+berlin and google maps recognized this activity
+
+2:55:04.960,2:55:10.880
+by turning a green street red and automatically 
+producing a virtual traffic jam on the map
+
+2:55:11.600,2:55:17.439
+the fictional activity also affected the 
+physical world where smart navigation
+
+2:55:17.439,2:55:25.599
+directed cars to alternative routes to avoid 
+being stuck in this traffic this is not racket
+
+2:55:28.000,2:55:37.279
+poses potentially to generate fictions often take 
+as accurate attentions of reality another example
+
+2:55:37.279,2:55:44.160
+is sunday island image at the right side was 
+featured by google earth through their satellites
+
+2:55:44.160,2:55:52.160
+imagery and market in the contemporary digital 
+charts such as google maps from 1876 until october
+
+2:55:52.160,2:55:59.200
+2012 when scientists finally discovered that the 
+island have never existed the marina favor is a
+
+2:55:59.200,2:56:05.679
+network commissioned by unesco creative cities 
+to critique the relationship between humans and
+
+2:56:05.680,2:56:12.560
+technology as game is one of the common mechanism 
+used in my creative practice i have built a
+
+2:56:12.560,2:56:19.120
+telephone game with the artificial intelligence 
+program tits translated in his work the text
+
+2:56:19.120,2:56:24.800
+is translated between 10 rooted and distant 
+language families to decipher the original text
+
+2:56:25.600,2:56:31.840
+after the text has been translated and 
+re-translated the original meaning is lost and the
+
+2:56:31.840,2:56:39.200
+cyber formatted linguistic endpoints is obtained 
+the project results from negotiating questions
+
+2:56:39.760,2:56:46.720
+such as chameleon be accurately represented in 
+translation from human accessibility to machine
+
+2:56:46.720,2:56:54.479
+logic what does it say about us trusting the 
+perfection of computers over the sentimentally
+
+2:56:54.479,2:57:00.879
+of humans using these questions as a 
+foundation running human or philosophical
+
+2:57:00.880,2:57:08.080
+text through a programmatic data obscures 
+the language mechanically the resulting text
+
+2:57:10.160,2:57:16.559
+visual images its final step relieves 
+on the intuitive and imprecise thinking
+
+2:57:16.560,2:57:21.840
+that mirrors human perception 
+english writer and creative
+
+2:57:24.160,2:57:33.359
+we only see what we look at to look is an act 
+of choice i think art is particularly important
+
+2:57:33.359,2:57:38.719
+in this area than ever as everything 
+in its reality is attached to capsule
+
+2:57:39.439,2:57:46.559
+by reviving the power of fiction art change the 
+real world in the current technological context
+
+2:57:47.520,2:57:53.360
+to generate awareness for technology for 
+work citizens to rethink their current states
+
+2:57:54.080,2:58:03.840
+to catalysts for the better futures and 
+that's my talk today thank you very much
+
+2:58:04.560,2:58:11.680
+oh wow oh thank you very much uh your 
+presentation is also an art hard work
+
+2:58:13.120,2:58:19.840
+very beautiful thank you very 
+much yeah yeah thank you very much
+
+2:58:20.399,2:58:28.000
+i have many questions to you but uh i'd 
+like to proceed to the next presentation
+
+2:58:28.000,2:58:35.040
+then and let's discuss so i'd like to welcome 
+mangaly and martin mozarix from inaliya
+
+2:58:35.920,2:58:42.480
+so could you please start your presentation 
+yes i'm sharing my screen thank you
+
+2:58:45.200,2:58:45.840
+and that's
+
+2:58:49.920,2:58:51.840
+oops so
+
+2:58:56.399,2:59:07.839
+is it working yes it is indeed um so thank you 
+again for inviting us and my name is magali and
+
+2:59:07.840,2:59:14.319
+in the name of indriya cnrs and lucia and 
+tehrani america we would like to to thank
+
+2:59:14.319,2:59:24.160
+you dr um koichiro etosan for this invite and also 
+the french and japanese foundation and early kid
+
+2:59:25.279,2:59:30.639
+i'm sorry but our presentation is going to be 
+very different because it's uh to share the
+
+2:59:30.640,2:59:37.520
+project we are working on at the moment in um help 
+maritime in the south of france sophia antipolis
+
+2:59:38.160,2:59:44.000
+and um thank you to all of you for your 
+excellent and exciting uh presentation and
+
+2:59:44.000,2:59:49.520
+i'm still very very impressed uh by being 
+shane as well and it's going to be hard
+
+2:59:50.560,2:59:58.080
+to talk after her so tehran america is 
+digital sciences at your fingertips it's
+
+2:59:58.080,3:00:02.000
+something like we would like people 
+to discover explore and experiment
+
+3:00:04.080,3:00:10.880
+so why terrain america because like 
+gravity digital is like everywhere and yet
+
+3:00:13.840,3:00:15.360
+digital till divide
+
+3:00:22.319,3:00:29.840
+people know how to use their phone their laptop 
+but they don't know how what's behind it and
+
+3:00:29.840,3:00:38.800
+uh for terra in america it's very important 
+uh to um engage people and and and share with
+
+3:00:38.800,3:00:46.640
+them so they can be uh independent with digitals 
+and what's going on in this in this a new world
+
+3:00:47.840,3:00:57.520
+so very often we hear that these are not my 
+cup of tea and despite the very good quality of
+
+3:00:59.520,3:01:07.120
+qual of science mediation with high attendance 
+at science fair open doors conferences
+
+3:01:07.120,3:01:17.439
+courses digital is not yet considered not as 
+a part of our culture as art is so therefore
+
+3:01:18.560,3:01:28.240
+we sorry i'm not very up so therefore tyranny 
+america um wants to disseminate uh the the
+
+3:01:28.240,3:01:36.880
+knowledge to the largest possible number of 
+people and we aim at um being a good vector
+
+3:01:36.880,3:01:44.080
+for digital sciences in education and then bring 
+equal opportunities for everybody boys and girls
+
+3:01:44.880,3:01:52.560
+also why terrain america in our territory it's 
+a very rich territory in interactions with
+
+3:01:53.200,3:02:01.840
+arts as you may know the south of 
+france alpha mari timber and provence
+
+3:02:03.279,3:02:13.519
+was is still a very attractive place for artists 
+um so many came and stay and and produce in in the
+
+3:02:13.520,3:02:24.000
+area it's a very rich territory for art schools 
+and like victorian studios as recently reopened
+
+3:02:24.000,3:02:34.399
+so cinema interactions lots of students and in 
+society police and in nice and too long as well
+
+3:02:34.399,3:02:44.080
+a lot of research centers and private companies so 
+very big nice area to to share and to to carry on
+
+3:02:45.680,3:02:50.880
+so the main goal of tehran america was to 
+bring together the whole digital sciences
+
+3:02:50.880,3:03:01.439
+actor which were on our territory and it was 
+to not build well build something new but also
+
+3:03:01.439,3:03:08.719
+uh bring together all the people to make their 
+experience and expertise in scientific meditation
+
+3:03:08.720,3:03:17.600
+their innovation creativity co-activities stronger 
+also we very um we're very keen in training
+
+3:03:17.600,3:03:25.840
+teachers professors and and sharing 
+devices all devices around digital sciences
+
+3:03:29.120,3:03:32.240
+so tehran america is a project still
+
+3:03:33.279,3:03:40.080
+it started we are now very i'm 
+sorry sorry sorry sorry he lost my
+
+3:03:42.160,3:03:49.760
+we are now supported by our two funding 
+members cnrs india and universite cote d'azur
+
+3:03:51.439,3:04:01.120
+we we have fully members from different areas 
+like research and higher education laboratories
+
+3:04:01.120,3:04:10.399
+schools association private companies and local 
+authorities as well our goal is to finally have
+
+3:04:10.399,3:04:19.920
+a big space to share and to show digital sciences 
+but not only all the earn their interactivities
+
+3:04:20.640,3:04:32.720
+but also we are very keen on going in mainly 
+in interland um area because lots of secondary
+
+3:04:32.720,3:04:41.200
+schools high schools multimedia libraries 
+don't always have access to those opportunities
+
+3:04:43.439,3:04:53.200
+we we have very open we are very open-minded 
+and we've got like at the moment 150 people
+
+3:04:53.760,3:05:01.040
+working all together and including 
+citizens students scientific administrative
+
+3:05:01.040,3:05:04.479
+staff artists everybody is is very welcome
+
+3:05:07.200,3:05:17.840
+so to give you a brief history of the project 
+the project was born in into december 2018.
+
+3:05:18.399,3:05:29.040
+we were only four at the moment so in in 2 2019 
+we had to present and convince people and finally
+
+3:05:30.000,3:05:38.319
+we got a name and a logo which is tehran 
+america we got our first funding and first a key
+
+3:05:38.319,3:05:54.160
+achievement for tehran america in 2020 2020 then 
+2021 um it was time for our um our um sorry our
+
+3:05:55.279,3:06:01.920
+research centers to sign an agreement 
+and to encourage us to to carry on
+
+3:06:02.720,3:06:10.479
+so 2020 is 2022 is a big step for us because we 
+are going to have a new pad as we said a very
+
+3:06:10.479,3:06:19.200
+big space 500 square meters where we are going 
+to put down everything and it's going to be
+
+3:06:19.200,3:06:26.880
+able um a place for sharing for researchers 
+and people citizens to come and enter and
+
+3:06:26.880,3:06:37.359
+visit visitors and attend any kind of activities 
+and the final goal for terra numerica in 2025
+
+3:06:38.479,3:06:45.040
+with the help of the local authorities 
+is to open a dedicated place
+
+3:06:47.600,3:06:56.399
+to science meditation sorry meditation 
+popularization of digital sciences and
+
+3:06:56.399,3:07:02.799
+we had the confirmation a few months 
+ago so we are going to have like
+
+3:07:04.000,3:07:11.040
+5 500 meters just for terra numerica and 
+just next to it same place in sofianti police
+
+3:07:12.319,3:07:20.479
+5 500 square meters for heart and science 
+linked to terrain america and in connections
+
+3:07:21.279,3:07:28.240
+and after that the adventurers goes on we've 
+got to carry on and work and produce and invent
+
+3:07:28.240,3:07:35.679
+and be different and attract more people 
+so this is the place we we are going to
+
+3:07:36.960,3:07:45.040
+uh invest very soon um where people are 
+uh will be able to come and and visit and
+
+3:07:45.040,3:07:51.840
+it will be like the digital science fair all 
+your all year round sorry and what we want is
+
+3:07:52.640,3:08:02.000
+to support innovative thinking inspire create 
+share with everybody who's happy to come and um
+
+3:08:03.279,3:08:11.840
+also we've got a little well not a little we would 
+like to develop art and science in our project
+
+3:08:12.640,3:08:18.080
+and so just let open the 
+windows on art and science and
+
+3:08:19.200,3:08:25.279
+as picasso said everything you can imagine is 
+real and this is what we are doing with terranim
+
+3:08:25.279,3:08:35.920
+america but not only so we've got um an agreement 
+with espace archon de and we are going to work we
+
+3:08:35.920,3:08:42.720
+are already working with them like jean-pierre as 
+well uh showed you his project he's going to work
+
+3:08:42.720,3:08:48.960
+with with them as well and we would like to 
+cross views between artists and scientists
+
+3:08:49.760,3:08:56.960
+so that could be a different level like for 
+instance the first example is robert de lune
+
+3:08:56.960,3:09:04.080
+and you can as an artist the creation 
+and what an artist at inoria can create
+
+3:09:04.080,3:09:14.000
+around the knee triangulations producing 
+um producing algorithm so that's an example
+
+3:09:15.040,3:09:23.600
+another example could be that that's a neural 
+networks from another artist statin area and how
+
+3:09:23.600,3:09:29.840
+your imagination could interpret 
+neural networks in a different way
+
+3:09:32.160,3:09:40.160
+one of our scientists frederick avi who could 
+not be there and dorian mazurik they both work
+
+3:09:40.160,3:09:50.960
+with this espar concrete and for instance this 
+is the work of carl andre which is a famous
+
+3:09:51.760,3:10:00.000
+sculpture american sculpture and it's the queens 
+of on the work of heart and it's mixing hearts
+
+3:10:00.000,3:10:10.720
+mathematics and algorithm as you can see also 
+we've got heart is everywhere and there is another
+
+3:10:10.720,3:10:19.359
+project which is a spiral is in shape and it's an 
+approach a multi-disciplinary approach and in this
+
+3:10:19.359,3:10:27.519
+case we want to erase awareness of observation 
+reflection via the spiral as a mathematical
+
+3:10:28.319,3:10:37.200
+object or sharing with science and technology 
+but not only like for instance the origami um
+
+3:10:37.200,3:10:46.319
+origami to us could be um a way to also 
+introduce deep learning but very vulgarated
+
+3:10:46.319,3:10:55.519
+but deep learning as you repeat the same gesture 
+to train and to make your origami become alive
+
+3:10:55.520,3:11:01.520
+so that could be you know lots of connections to 
+explain science and the interconnections between
+
+3:11:02.080,3:11:08.239
+um heart history of art and 
+and whatever okay so we are um
+
+3:11:09.439,3:11:17.679
+beginning to be a bigger project with a lot of 
+ambitions and any contributions would be very very
+
+3:11:17.680,3:11:24.640
+uh welcome um we we can share with you 
+seminars creative and innovating project
+
+3:11:25.200,3:11:31.679
+and also from what we heard this morning new 
+certificate new scientific research approaches
+
+3:11:32.239,3:11:40.000
+and it would be very uh important for us 
+to carry on any kind of collaboration so
+
+3:11:42.720,3:11:49.840
+this is just a little video i hope it works and
+
+3:11:53.279,3:12:03.840
+huh
+
+3:12:12.960,3:12:13.460
+oops
+
+3:12:15.520,3:12:22.720
+so thank you very much to harry gatou 
+gozaimasu we will we heard about your
+
+3:12:22.720,3:12:27.680
+summer school at the beginning and we would 
+be very happy to maybe uh collaborate with you
+
+3:12:28.399,3:12:36.160
+also in next november in society police at 
+indriya we're on organizing an aca tech with
+
+3:12:37.680,3:12:44.960
+young students and researchers and one 
+of the major group research area would
+
+3:12:44.960,3:12:50.720
+be heart and sciences because we believe 
+we can create and do lots of new things
+
+3:12:52.560,3:13:03.121
+and we we've got to in in the area we also 
+hold the project troisi ah koichiro etosan
+
+3:13:03.760,3:13:08.640
+you you've already heard about it so 
+you could have a lot of interactions
+
+3:13:08.640,3:13:17.760
+around ia with a lot of scientists but 
+not only twice a year tehran america have
+
+3:13:18.960,3:13:27.520
+called for projects so we've got little finance to 
+give the opportunity to artists or to scientists
+
+3:13:27.520,3:13:37.280
+to collaborate and to work together and being a 
+non-artist and a non-scientific and living with
+
+3:13:38.720,3:13:48.080
+living and working with scientific and artists 
+i believe that there is no um that's it's not a
+
+3:13:48.080,3:13:54.239
+different word it's the same word sometimes 
+as jean-pierre and some of you already said
+
+3:13:54.960,3:14:02.640
+the communication the the wording is not the same 
+but the creativity and your sensitivity is just
+
+3:14:02.640,3:14:11.280
+the same uh always i often hear mathematician 
+say oh i'm so happy my algorithm is so beautiful
+
+3:14:12.160,3:14:21.120
+and it's in the same aspect that an artist could 
+share his whatever production and also my final
+
+3:14:22.880,3:14:30.399
+sharing is next time um we we would be very 
+honored uh to make a little video for tehran
+
+3:14:30.399,3:14:38.639
+america or whatever and and talk with now 
+uh toki sensei and maybe have his music
+
+3:14:38.640,3:14:44.480
+in back in the background to be more 
+innovative thank you again arigato gozaimasu
+
+3:14:46.640,3:14:53.760
+thank you very much for your presentation 
+makali-sang then uh our presentation was
+
+3:14:53.760,3:15:01.760
+finished for session two so we'd like to 
+start a discussion of uh of this session
+
+3:15:02.880,3:15:11.840
+then uh thank you thank you for all then i'd 
+like to start a question to uh from myself
+
+3:15:12.640,3:15:23.680
+so why do you say can you hear me yeah i do yeah 
+maybe you you have a limited time to so i'd like
+
+3:15:23.680,3:15:30.640
+to start question for you no no i i actually 
+have plenty of time because if uh if it's
+
+3:15:32.800,3:15:37.040
+a quarter to ten two two up 
+past 12 in france this is
+
+3:15:37.040,3:15:42.800
+one hour left i'm in great britain now so i 
+have a lot of time not a lot but i have time
+
+3:15:43.359,3:15:50.719
+uh okay thank you uh i i'd like to ask you the 
+uh many questions but uh at the first one point
+
+3:15:51.680,3:16:00.239
+uh how do you think the differences between the 
+west and the east was for thinking about the
+
+3:16:00.239,3:16:08.399
+dystopia scenario for the future uh i i think that 
+there is a uh how can i say increased by from the
+
+3:16:10.000,3:16:20.160
+fiction nobel for example frankenstein uh as 
+you know a scientific science fiction novelist
+
+3:16:20.160,3:16:27.920
+uh isaac ashimov named it as a syndrome 
+of a frankenstein so how do you think the
+
+3:16:29.760,3:16:40.160
+scenario is different for the west and the east oh 
+the question of cultural relativity i heard that
+
+3:16:40.160,3:16:47.120
+um well um we have the same i have i i i'm jumping 
+aside and i'm coming back to the discussion right
+
+3:16:47.120,3:16:54.239
+now i'm also working on another uh um mediatic 
+and the cultural creator named the zombie and you
+
+3:16:54.239,3:16:59.439
+know there is huge discussion regarding if it's 
+a production of the western imagination and if it
+
+3:16:59.439,3:17:05.919
+can also be rooted in the in non-western culture 
+and civilization given that the relationship
+
+3:17:05.920,3:17:11.840
+in between the body culture the imagination of 
+after after death and so on are quite different
+
+3:17:12.479,3:17:19.120
+from uh way on the way to another depending 
+not only on culture but and i'm getting back
+
+3:17:19.120,3:17:28.080
+to the point on history uh you know that the 
+the um on not only culture but also history
+
+3:17:28.640,3:17:34.000
+for instance the the degree of uh historical 
+trauma that you have for instance for walls
+
+3:17:34.000,3:17:40.560
+and uh the very specific relationship that you 
+can have with technology and uh for instance you
+
+3:17:40.560,3:17:46.880
+japan invented godzilla and now this is the 
+universal feature now the character that we
+
+3:17:46.880,3:17:53.840
+we can see everywhere but you invited it and and 
+this now belongs to the global popular culture
+
+3:17:54.399,3:18:01.200
+and it can be recognized everywhere and so i think 
+that there are framework for dystopian scenarios
+
+3:18:03.120,3:18:12.080
+similar on some aspects with a local variations 
+regarding the uh very specific national history
+
+3:18:12.080,3:18:17.920
+uh let's say on the background of global 
+history but but national histories for instance
+
+3:18:18.640,3:18:26.160
+and that's why uh there is a huge distribution 
+of of this uh dystopian scenarios but um if you
+
+3:18:26.160,3:18:32.160
+allow me just one more second i'm i'm a bit 
+talkative but just one second this dystopian
+
+3:18:32.160,3:18:38.880
+scenarios has also grounds for the acceptation 
+of this for instance the fact that we all know
+
+3:18:38.880,3:18:47.359
+who is frankenstein creator and we all accepted 
+that we can create such uh let's say animals or
+
+3:18:48.000,3:18:55.040
+or human-like creatures regardless of the the 
+outcomes and the fact that the creator can kill
+
+3:18:55.040,3:19:03.760
+the the create creator can kill the creator but 
+you can fear a very specific scheme or object or
+
+3:19:03.760,3:19:10.880
+sign of symbol but accept it and 
+dystopian can also be uh imaginary indeed
+
+3:19:10.880,3:19:17.840
+geological ideological facilitator for the 
+acceptation of these things in my opinion
+
+3:19:19.920,3:19:24.560
+interesting i have this kind 
+of a scientific fiction story
+
+3:19:26.080,3:19:34.239
+there are so many cultural background differences 
+so maybe we can deepen this uh kind of stories
+
+3:19:34.239,3:19:44.639
+very much but uh i'd like to make broader to this 
+uh topics uh so i'd like to ask you uh uh being
+
+3:19:44.640,3:19:54.479
+some uh how do you think the uh described stories 
+from the east side and uh your presentation is uh
+
+3:19:54.479,3:20:04.319
+wonderful and also it's playful so uh i'm very 
+interested in your story to a playful future
+
+3:20:05.520,3:20:12.000
+ah president can you can repeat the question 
+again sorry uh i think the internet is not
+
+3:20:12.000,3:20:21.120
+evil in the uh you created the future 
+scenario as a good site or a prayer site
+
+3:20:22.800,3:20:30.479
+i'm very interested in where did you come 
+from this kind of attitude altitude you mean
+
+3:20:30.479,3:20:39.040
+the work i just created oh yeah okay well i think 
+it's quite it's quite complicated because as
+
+3:20:39.040,3:20:46.479
+an artist i think any experience is going to 
+our creation so i think my creation slightly
+
+3:20:47.840,3:20:55.680
+starts changing because i was moved back to 
+china since 2020 and from then i think the whole
+
+3:20:55.680,3:21:01.279
+involvement and also the people how people are 
+using the technology and the people's optimistic
+
+3:21:01.279,3:21:08.239
+altitudes on the technology in this whole 
+environment is quite shocked me so so that that's
+
+3:21:08.239,3:21:14.880
+you can see that's my analyze um of how what 
+happens in these environments like from my slides
+
+3:21:14.880,3:21:22.239
+just in my presentation and so from that i 
+was thinking um compared to the study i would
+
+3:21:22.239,3:21:31.120
+compare to the the life experience um when i was 
+in london and i seen like quite different view
+
+3:21:31.680,3:21:39.760
+in china that everyone can so close engage with 
+the technology that they bring the technology
+
+3:21:39.760,3:21:49.600
+uh fragments into their daily lives and then so 
+in that case um i think here everybody is artists
+
+3:21:49.600,3:21:56.880
+they are creating they're creating um their 
+how can i say they use their creation to
+
+3:21:56.880,3:22:06.479
+actually um build the future day by day person by 
+person and so when i seen this also i was raising
+
+3:22:06.479,3:22:13.200
+myself as an artist was the responsibility of 
+being an artist in this technological arrow um
+
+3:22:13.200,3:22:19.840
+so basically i'm more like critics on 
+technology through my artworks um and uh
+
+3:22:20.399,3:22:26.719
+and uh yeah that's that's that's experience again 
+um from from the from beijing from china here
+
+3:22:29.920,3:22:31.040
+i'm not sure if i don't say it
+
+3:22:33.279,3:22:39.120
+yeah it's wonderful answer that 
+everybody is an artist in china yeah
+
+3:22:41.359,3:22:47.920
+it's quite like you can't really you can't 
+really feel which parts is the reality and
+
+3:22:47.920,3:22:54.800
+which part is fiction it's kind of all 
+mixed up together the things you see in
+
+3:22:59.040,3:23:05.519
+it may next day appear in a daily life like in 
+china you never know every day is a surprise
+
+3:23:07.439,3:23:08.719
+interesting thank you very much
+
+3:23:14.479,3:23:26.479
+for sang can you hear me magazine i have a 
+question for you that how would you like to
+
+3:23:27.279,3:23:34.479
+make a place to collaborate with 
+artists in your project can you hear me
+
+3:23:37.120,3:23:37.840
+nobody saying
+
+3:23:41.040,3:23:44.080
+he is not in a list of the names anymore wow
+
+3:23:46.800,3:23:47.520
+okay then
+
+3:23:50.399,3:23:52.000
+she came here again
+
+3:23:56.319,3:24:03.599
+if somebody have questions to uh 
+speakers uh you can feel free to uh
+
+3:24:04.399,3:24:10.799
+on microphone then start to talk 
+or please say something from chat
+
+3:24:14.239,3:24:15.040
+can you hear me
+
+3:24:18.479,3:24:28.000
+yes sorry shiro i lost you and i had to connect 
+again ah okay so uh i'd like to i'll repeat the
+
+3:24:28.000,3:24:36.080
+question to you okay thank you i have a question 
+uh is it any uh plan to make a collaborative
+
+3:24:36.080,3:24:43.760
+collaborative space in your project is there 
+any future plan to collaborate with artists
+
+3:24:45.680,3:24:52.400
+oh yes indeed we we would like to to do that 
+i mean jean-pierre is already an example
+
+3:24:54.160,3:25:02.880
+so far we have approached the ah concrete in 
+satu but we would like to carry on and extend and
+
+3:25:04.720,3:25:12.160
+even outside the area the national i 
+mean the france or elsewhere because like
+
+3:25:12.160,3:25:22.559
+we are going to have one 1 500 meters dedicated 
+to art and science and it's very important to
+
+3:25:23.920,3:25:30.720
+to collaborate and to extend and so there are 
+so many local artists as well it's a very rich
+
+3:25:32.000,3:25:38.720
+territory so yes we are very uh keen 
+on on collaborating uh koichiro with
+
+3:25:39.520,3:25:44.800
+you or any person who would like and 
+also it is very important as you said
+
+3:25:44.800,3:25:51.600
+it's opening a new reflection on science 
+um aspects like uh with social environment
+
+3:25:51.600,3:25:57.440
+and with heart and the connections 
+and i gather our project it's at uh
+
+3:25:59.680,3:26:04.800
+at um a level just under your creativity
+
+3:26:04.800,3:26:11.680
+because for us the important is to share 
+like we explain uh ia with a wooden
+
+3:26:11.680,3:26:19.920
+machine we've got lots of and it's to make 
+people more confident and to show them that um
+
+3:26:21.920,3:26:31.200
+digital a is everywhere but like art is everywhere 
+as well to us so it's important that people trust
+
+3:26:31.200,3:26:39.599
+and feel more confident and it's uh it's like 
+religion has lionel uh i think it was leonel
+
+3:26:40.640,3:26:47.200
+made them the relation i mean it's everyday you've 
+got to convince people you've got and especially
+
+3:26:47.200,3:26:54.479
+after what we've been through with the kovid 
+you can all see that there is a lack of on on
+
+3:26:55.279,3:27:02.960
+believing in science or in scientists so the 
+problematics is everywhere and we've got to um
+
+3:27:02.960,3:27:06.000
+carry on but yes we will be 
+very happy to collaborate
+
+3:27:08.960,3:27:17.920
+i'm looking forward to collaborating with you yes 
+we ideally we would we would have loved to welcome
+
+3:27:17.920,3:27:25.040
+you in in march sometimes but because you are 
+going back to japan maybe next time with pleasure
+
+3:27:25.040,3:27:33.359
+koichiro yeah thank you very much thank you so 
+this is a time for discussion so uh is there any
+
+3:27:33.359,3:27:41.839
+uh questions uh between a speaker to a speaker 
+uh we we are welcome to talk we have from you
+
+3:27:54.160,3:28:03.519
+i have one but meditate it will bring us 
+very far okay i can try to jump here um
+
+3:28:04.239,3:28:10.639
+since you work with the on the one side there is 
+a close connection with artists and on the other
+
+3:28:10.640,3:28:19.840
+side you are working as in in in the heart of 
+technology um how do you get the issue of crafting
+
+3:28:22.319,3:28:25.679
+on the one side and creating 
+on the other side all together
+
+3:28:26.880,3:28:31.840
+this is not an easy question this is a theoretical 
+question i'm sorry for that but i know that there
+
+3:28:31.840,3:28:38.160
+are spaces right now in sciences where creation uh 
+yeah you know crafting science is really inspired
+
+3:28:38.160,3:28:51.840
+by by heart and and and reciprocally so uh both of 
+you are one of you um how do you tackle this issue
+
+3:28:53.520,3:29:01.201
+well okay we have the main research 
+area which is assistance for frey people
+
+3:29:01.840,3:29:05.840
+but at the same time we allowed us to wander
+
+3:29:08.160,3:29:18.479
+on other topics that are not really connected to 
+our main research areas it happened in workshop
+
+3:29:18.479,3:29:26.799
+it happened in meeting well you know quite well 
+that we have a lot of administrative meetings
+
+3:29:29.120,3:29:38.720
+and we try to make the best of them meaning 
+that we have the opportunity to meet other
+
+3:29:38.720,3:29:44.479
+colleagues working in very different domains 
+and what surprised me no doesn't surprise me but
+
+3:29:44.479,3:29:51.120
+what happened is that i see some kind of 
+convergence in science as well meaning that
+
+3:29:53.680,3:30:00.960
+for example we have people trying to tackle 
+numerical fluids problems and it just happens that
+
+3:30:00.960,3:30:04.880
+if you discuss with them during 
+lunch you will see that they have
+
+3:30:05.760,3:30:11.120
+problems that are very similar 
+to what problem you have and
+
+3:30:13.120,3:30:18.880
+you have developed algorithm for solving this 
+problem they have developed their own algorithm
+
+3:30:19.760,3:30:26.960
+and it happens quite quickly frequently um 
+that uh well their tools may be quite useful
+
+3:30:26.960,3:30:31.920
+for us and reciprocally and in fact 
+it's it's i will say it's just random
+
+3:30:31.920,3:30:40.640
+meeting uh so we just kiss with lawyers we discuss 
+with biologists i have a biologist in my team
+
+3:30:42.160,3:30:45.519
+i will say just the open discussion
+
+3:30:48.319,3:30:55.439
+there is no systematic way to do it we have done a 
+systematic approach at the beginning when we move
+
+3:30:55.439,3:31:02.319
+to industrial robotics to assistance robotics we 
+spend two years making a lot of interviews with
+
+3:31:04.080,3:31:12.080
+customers help us medical community 
+local authorities and really
+
+3:31:12.080,3:31:17.920
+it was very useful because we learned a lot of 
+things we learned to avoid a lot of mistakes
+
+3:31:17.920,3:31:22.640
+which are very easy to make and i think 
+that with artists it just happens that
+
+3:31:23.760,3:31:31.359
+it happens once a long time ago the world 
+spread among the artists there is some team in
+
+3:31:31.359,3:31:37.599
+south of france which may help us to do whatever 
+we want so this started accumulating and
+
+3:31:39.040,3:31:45.760
+the world spreads and that's it but there 
+is no process for that in my opinion
+
+3:31:49.439,3:31:53.839
+thank you
+
+3:32:02.720,3:32:10.080
+sorry sorry so i was saying that uh in my first 
+life at irkam when i was mostly working on
+
+3:32:12.239,3:32:20.639
+computer-assisted composition software tools we 
+we had two kind of interactions between scientists
+
+3:32:20.640,3:32:29.120
+and artists in in the first situation the artist 
+would come to the scientist with a problem
+
+3:32:29.120,3:32:39.040
+for instance a musical problem and would ask for 
+help and expertise and algorithm and sometimes a
+
+3:32:39.840,3:32:47.279
+problem that was explained in a very lengthy 
+way and seemed very complicated actually could
+
+3:32:47.279,3:32:54.080
+be solved with a very simple scientific or 
+technological device or a simple algorithm
+
+3:32:54.720,3:33:01.680
+and sometimes a problem that seemed extremely 
+simple to the artist and the artist thought that
+
+3:33:01.680,3:33:04.800
+he would really just need a 
+little help to to achieve it
+
+3:33:05.359,3:33:12.559
+would actually become a huge scientific 
+problem and maybe sometimes an unsolvable one
+
+3:33:14.720,3:33:21.840
+and this is very very interesting because it 
+shows that the perception of complexity is very
+
+3:33:21.840,3:33:28.640
+different between artists and scientists 
+scientists have issues of computability
+
+3:33:29.520,3:33:37.840
+which is a very difficult topic as as as you 
+know and uh things that that are very obvious
+
+3:33:37.840,3:33:45.840
+in real life uh can become extremely 
+difficult to model actually in in uh
+
+3:33:46.479,3:33:54.160
+a quantitative approach and sometimes the artists 
+have a hard time understanding this because what
+
+3:33:54.160,3:34:00.639
+is simple for them and or complex and complicated 
+for them it's totally different from what the
+
+3:34:00.640,3:34:06.880
+scientists would uh tackle as simple or complex 
+so so we had this strange relationship in the
+
+3:34:06.880,3:34:12.000
+first place with the in the situation where the 
+artist would come to the to the to the scientists
+
+3:34:13.120,3:34:21.519
+and asked so to speak for a service we had another 
+kind of interaction which which went the other
+
+3:34:21.520,3:34:27.439
+way around so the scientists are also creative 
+and creators except that they create scientific
+
+3:34:27.439,3:34:34.239
+theories or algorithms or models and they would 
+come up with ideas of new models new algorithm
+
+3:34:34.800,3:34:41.200
+new fields and then they would talk about it 
+because of course we have a lot of places to
+
+3:34:41.200,3:34:48.239
+talk workshops conferences seminars etc and then 
+the artist would would come to the scientists and
+
+3:34:48.239,3:34:54.319
+say oh i never thought about that it's absolutely 
+fascinating and it gives me an id for a new work
+
+3:34:54.319,3:35:03.279
+for a new piece maybe we can collaborate and so 
+in this situation uh uh uh it it it would be it
+
+3:35:03.279,3:35:09.359
+would be the ideas coming from the scientist who 
+would inform and influence the artist so that was
+
+3:35:09.359,3:35:17.120
+a traditional uh divide that was a traditional 
+dichotomy between uh art and science as
+
+3:35:17.120,3:35:24.960
+a as a service-based relationship or art and 
+science as a transfer or influence or transfer
+
+3:35:25.520,3:35:30.960
+of ids from one field to another it's two very 
+different approaches and of course we we had
+
+3:35:30.960,3:35:38.160
+to cope with both but since i've been working on 
+interactive and creative ai that is designing uh
+
+3:35:38.720,3:35:44.399
+kind of artificial create creatures that can live 
+by themselves and interact on stage with musicians
+
+3:35:44.399,3:35:50.719
+now we're on in a very different situation because 
+the the the concern now of the musician is how can
+
+3:35:51.520,3:35:59.200
+how can i have this artificial creature shut up 
+for a moment because which is which is exactly
+
+3:35:59.200,3:36:03.200
+a question of control because we don't know 
+really how to control them for instance we have
+
+3:36:03.200,3:36:10.239
+algorithm ai algorithm that generate music and do 
+real-time machine learning in live situations etc
+
+3:36:10.239,3:36:17.279
+and they play music sometimes in a very smart way 
+but they they they don't we see we still don't
+
+3:36:17.279,3:36:27.040
+have the cognitive model of intentionality and 
+intrinsic motivation and all this that that makes
+
+3:36:27.680,3:36:34.640
+that that that can help us to decide when to start 
+and when to stop doing something so generally
+
+3:36:34.640,3:36:39.359
+generally the the human who starts the computer 
+and then the computer plays music it doesn't know
+
+3:36:39.359,3:36:46.239
+when to stop so so the the the human would would 
+really like to have some more control uh over that
+
+3:36:46.239,3:36:55.279
+and so we so we are now moving to to uh to a 
+paradigm of control and how to understand uh uh uh
+
+3:36:55.279,3:37:05.200
+uh control in the in the case where you have kind 
+of artificial uh um uh agents uh that that have a
+
+3:37:05.200,3:37:11.279
+that have a certain autonomy so the problem has 
+totally shifted to to to this new issue of control
+
+3:37:13.439,3:37:15.040
+i think just what that
+
+3:37:17.760,3:37:24.399
+just one thing that uh i have to mention is that 
+there is a parallel between in our collaboration
+
+3:37:24.399,3:37:31.920
+with that uh with a collaboration we have with 
+doctors you have to be quite careful when you
+
+3:37:31.920,3:37:39.040
+do that for example if you go when you meet a 
+doctor for the first time and tell him look you
+
+3:37:39.040,3:37:46.479
+have currently a medical process and i will teach 
+you how to change it and to do it very efficiently
+
+3:37:46.479,3:37:52.959
+so you want to change everything then you are 
+dead you have to learn to be incremental meaning
+
+3:37:55.359,3:38:02.160
+you have to simply state okay you have a 
+process i will not change it i will just
+
+3:38:03.359,3:38:11.599
+help you on a given detail of this process to do 
+it in a better way or to do it for you something
+
+3:38:11.600,3:38:19.600
+that you have currently doing we will avoid trying 
+to do an example when you do a walking analysis
+
+3:38:19.600,3:38:25.840
+of a patient there is a classical test where you 
+measure the time the guy takes to make 10 meter in
+
+3:38:26.880,3:38:32.880
+this straight line so so the surgeon 
+is looking as at the chronometer
+
+3:38:34.239,3:38:42.080
+of looking at the way the guy is walking so 
+the first thing we do is okay we will avoid you
+
+3:38:42.080,3:38:46.160
+looking at the chronometer because our 
+machine will measure all the time for you
+
+3:38:46.160,3:38:56.080
+that's it they say okay because it was no big 
+change for them and then we say well we can
+
+3:38:56.080,3:39:00.399
+measure also some of the things for example 
+we have measured during this experiment this
+
+3:39:00.399,3:39:09.040
+particularity oh they say oh you can measure 
+that so incrementally we add things we were able
+
+3:39:09.040,3:39:16.160
+to do since the very start of the program but we 
+won't we don't want to say that at the beginning
+
+3:39:18.239,3:39:27.760
+and the doctors learnt like the artists and when 
+the request or the suggestion does not come from
+
+3:39:27.760,3:39:37.120
+us but from the doctors you have measured that but 
+be possible to measure also that that we know we
+
+3:39:37.120,3:39:44.319
+have win and it's exactly the same process with 
+artists in our first collaboration we were just
+
+3:39:44.319,3:39:52.559
+attacking with a small minor detail in the 
+artwork showing it can be done and progressively
+
+3:39:52.560,3:39:58.239
+that you say oh you have been able to do that i 
+would like to do another thing can you do it for
+
+3:39:58.239,3:40:06.160
+me and that's okay if you are these steps then you 
+know that the collaboration will be quite fruitful
+
+3:40:08.239,3:40:09.199
+you have to be perfect
+
+3:40:11.840,3:40:16.960
+to fight your to fight your own mind we 
+say okay we have this problem i know how
+
+3:40:16.960,3:40:22.880
+to deal with it completely and efficiently you 
+have to learn that to be careful not do that
+
+3:40:30.880,3:40:36.160
+yes it is very smart uh approach and 
+as you say the relation between artists
+
+3:40:36.160,3:40:40.720
+and scientists is a very delicate one and 
+one has to treat it uh in a very delicate
+
+3:40:45.279,3:40:47.920
+yeah way you very much uh for
+
+3:40:48.880,3:40:59.840
+the cube okay and uh i think uh i we are 
+almost running out of time for discussion so uh
+
+3:41:09.120,3:41:13.840
+no
+
+3:41:40.800,3:41:48.319
+okay uh uh okay uh i'd like to uh uh 
+conclude this q a discussion session
+
+3:41:48.319,3:41:55.040
+and uh also uh this workshop so thank 
+you very much for all participants
+
+3:41:56.160,3:42:02.880
+in this workshop you know for food 
+for a discussion in this time so
+
+3:42:07.040,3:42:17.359
+can i across or who is a speaker for closing 
+remarks yes i think you can you can conclude here
+
+3:42:17.359,3:42:24.960
+because i think sebastian the chevalier uh jean 
+vivian had to left earlier so you can conclude
+
+3:42:26.479,3:42:33.519
+okay i'd like to conclude this workshop 
+and there was a wonderful presentation
+
+3:42:33.520,3:42:39.520
+so many wonderful presentations and 
+uh there's so many issues to how to
+
+3:42:40.560,3:42:47.520
+deepen the relationship between uh art 
+and advanced technology in this society
+
+3:42:47.520,3:42:56.720
+so i am very thankful to all the participants 
+and for speakers and audience uh thank you very
+
+3:42:56.720,3:43:05.840
+much for making this workshop possible uh so i'd 
+like to to end this workshop thank you very much
+
+3:43:12.880,3:43:15.600
+thanks a lot thank you thank you very much
+
+3:43:18.319,3:43:27.199
+thanks everyone thank you thanks 
+take care bye bye thank you bye
+
