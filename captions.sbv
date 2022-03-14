@@ -743,7 +743,7 @@ As you know, there are many layers behind the deep neural network
 And this exhibit shows the mechanism of the DNN very well
 
 0:19:25.986,0:19:33.589
-In detail, they use the CNN (Convolutional Neural Network) with the *VGG-16 network (not sure what it is do research)*
+In detail, they use the CNN (Convolutional Neural Network) with the VGG16 network
 
 0:19:33.589,0:19:37.663
 I think this is a simple idea but effective
