@@ -1259,13 +1259,13 @@ turn table and samplers
 So as for turn tables, you are not supposed to touch and move the vinyl record right?
 
 0:35:11.133,0:35:21.394
-And samplers were intended to imitate expensive physical instruments such as pianos and violines
+And samplers were invented to imitate expensive physical instruments such as pianos and violines
 
 0:35:21.394,0:35:30.397
 But the inventor didn't expect users to appropriate and sample somebody else's records and musics
 
 0:35:30.397,0:35:35.196
-Such as *funky dramas* or *mm breaks* or whatever
+Such as Funky Drummers or Aiming Brakes or whatever
 
 0:35:35.196,0:35:44.341
 And when we think about the current status of AI music tools
@@ -1280,13 +1280,13 @@ You see both extreme ends of spectrums here
 On one hand, you have programmer oriented tools
 
 0:36:06.811,0:36:16.017
-like, so you need to install Python and Tensor Flow and CUDA of course
+like, so you need to install Python and Tensor Flow and you need CUDA of course
 
 0:36:16.017,0:36:24.367
 And you know, you need to get used to these tools to make something unique or something new
 
 0:36:24.367,0:36:34.364
-And I'm sure some artists can learn and get used to these tools
+And I'm sure some artists can learn and train themselves to get used to these tools
 
 0:36:34.364,0:36:37.930
 but usually it's not the case
@@ -1298,7 +1298,7 @@ And at the other end of the spectrum, we have
 very well-packaged tools, AI tools
 
 0:36:49.085,0:37:00.000
-So with one click the AI can generate a music or with one click the AI can edit your photo, or images, you know
+So with one click you can generate a music or with one click the AI can edit your photo, or images, you know
 
 0:37:00.000,0:37:05.370
 And in some cases, that's good
@@ -1310,7 +1310,7 @@ But I think if the tool is too well packaged
 then you cannot "misuse" or you cannot use these tools in your own way, or in your own creative way
 
 0:37:21.539,0:37:32.405
-So I think we need something i between these two ends of the spectrum
+So I think we need something in between these two ends of the spectrum
 
 0:37:32.405,0:37:36.823
 And I call it "Misusable" AI tools
@@ -1322,13 +1322,13 @@ And following this principal, I created a simple AI tool for musicians
 And it is on Ableton Live, a famous digital audio workstation software
 
 0:37:57.645,0:38:06.847
-And yeah, this is Ableton Live plugin
+And yeah, so this is an Ableton Live plugin
 
 0:38:06.847,0:38:15.618
 And what it does is it allows you as artist to train your own AI model
 
 0:38:15.618,0:38:22.697
-within this software, so you don't have to deal with Python or CUDA
+within this software, so you don't have to deal with Python and CUDA
 
 0:38:22.697,0:38:30.658
 So only thing you need to do is just collect music data, in this case MIDI files
@@ -1406,7 +1406,7 @@ what I did was to integrate the sound classification model with the rhythm gener
 And generated rhythm pattern will be played
 
 0:41:16.180,0:41:20.946
-with the instant drum tip
+with the instant drum kit
 
 0:41:20.946,0:41:25.743
 the sound classification model created out of the recorded sound materials
@@ -1430,7 +1430,7 @@ And I should mention that sound classification is not perfect of course
 but that's what we wanted
 
 0:42:06.858,0:42:17.283
-We wanted to deviate from what humans has created
+We wanted to deviate from what humans have created
 
 0:42:17.283,0:42:30.142
 ♫sick session♫
@@ -1460,7 +1460,7 @@ And this error and creativity is one of my main theme I think
 So the other project where I embrace the uncertainty of AI is this AI DJ project
 
 0:43:49.476,0:43:54.277
-It's a *asdfa adf* session with me
+It's a back-to-back DJ session with me
 
 0:43:54.277,0:43:59.898
 and AI DJ
@@ -1481,13 +1481,13 @@ But this unexpectedness was so interesting as a DJ
 And we are so fortunate to have opportunities to play at various locations including Google I/O in San Francisco
 
 0:44:54.507,0:44:57.568
-and *Scopodfasd* festival in *Naunt*
+and Scopitone festival in Nantes
 
 0:44:57.568,0:45:13.599
-So we extended this scene and we truned it into a real-time AI drum turn session
+So we extended this scene and we truned it into a real-time AI jam session
 
 0:45:13.599,0:45:24.801
-♫sick drum session♫
+♫sick jam session♫
 
 0:45:24.801,0:45:34.878
 I hope you can listen to and hear the audio now
@@ -1496,13 +1496,13 @@ I hope you can listen to and hear the audio now
 (In Japanese) Daijoubukana?
 
 0:45:38.587,0:45:47.051
-Anyway, so instead of letting AI select existing music
+Anyway, so instead of letting AI to select existing music
 
 0:45:47.051,0:45:54.122
 We made an AI system that makes music on stage in real time
 
 0:45:54.122,0:45:59.361
-So in this stage, three AI models, namely
+So in this performance, three AI models, namely
 
 0:45:59.361,0:46:08.455
 rhythm generation model, baseline generation, and loop selection interact with each other
@@ -1616,7 +1616,7 @@ And this is I believe what human artists do actually
 And finally I want to introduce one of my favorite quotes of Scott Adams
 
 0:50:44.334,0:50:52.060
-He's a famous comic writer of *deubuff* comic strip
+He's a famous comic writer of Dilbert comic strip
 
 0:50:52.060,0:51:00.000
 And it goes like this: Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep
@@ -1631,7 +1631,7 @@ And consequently, it helps you to create something new and original
 Ok, finally as Eto-san introduced, I published this book last year
 
 0:51:26.457,0:51:36.966
-And I'm working on the English translation, and hopefully I can deliver it within a few months
+And I'm working on English translation, and hopefully I can deliver it within a few months
 
 0:51:36.966,0:51:42.124
 Ok, so thank you so much!
@@ -1652,4 +1652,4 @@ But on this program, I will do the presentation for session one and all
 Then we'll have a 10 minutes Q and A
 
 0:52:10.099,0:52:14.944
-So I would like to press to next presentor
+So I would like to do this and to next presentor
