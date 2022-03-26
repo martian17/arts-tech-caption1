@@ -1,6 +1,15 @@
 IRCAM
 INRIA
-Jean-Yves Iatrides ジャン・イーヴス　イアトリデス
+AIST
+REACH
+Fondation France-Japon 仏−日基金(FFJ)
+Air Liquide エア・リキード社
+fellow 研究員
+Fabien ファビアン
+Itoh 伊藤
+Jodie ジョディー
+Sébastien Lechevalier セバスチャン レシェヴァリエール FFJ
+Jean-Yves Iatrides ジャン・イーヴス イアトリデス
 Koichiro Eto 江渡浩一郎
 Lionel Obadia リオネル オバディア
 Gérard Assayag ジェラルド アサヤグ
