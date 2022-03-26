@@ -1,6 +1,6 @@
 IRCAM
 INRIA
-Jean-Yves Iatrides ジャン・イヴ　イアトリデス
+Jean-Yves Iatrides ジャン・イーヴス　イアトリデス
 Koichiro Eto 江渡浩一郎
 Lionel Obadia リオネル オバディア
 Gérard Assayag ジェラルド アサヤグ
