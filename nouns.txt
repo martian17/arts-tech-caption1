@@ -1,4 +1,5 @@
 IRCAM
+AI
 INRIA
 AIST
 REACH
@@ -8,6 +9,15 @@ fellow 研究員
 Fabien ファビアン
 Itoh 伊藤
 Jodie ジョディー
+
+assayag:
+Centre Georges Pompidou ジョルジュ・ポンピドゥー・センター
+Pierre Boulez ピエール・ブーレーズ
+Sorbonne University ソルボンヌ大学
+Minister of the Culture Communication 文化コミュニケーション大臣
+Music Representation team 音楽表現チーム
+François Pachet フランソワ・パシェ
+
 Scientific Reports サイエンティフィック・レポート誌
 Christopher Alexander クリストファー・アレクサンダー
 Ars Electronica アース・エレクトロニカ
@@ -16,12 +26,17 @@ Jean-Yves Iatrides ジャン・イーヴス イアトリデス
 Koichiro Eto 江渡浩一郎
 Sofian Audry ソフィアン・オードリー
 Lionel Obadia リオネル オバディア
-Gérard Assayag ジェラルド アサヤグ
+Gérard Assayag ジェラルド・アサヤグ
 Biin Shen ビン シェン
 Yosuke Takenouchi 竹之内洋輔 Japanese embassy in france
 Jean-Pierre Merlet ジャン・ピエール マーレット
 Nao Tokui 徳井直生
 Magali Martin-Mazauric マガリ マーティン・マザウリック
+Sophia Antipolis
+Terra Numerica テラ・ニュメリカ
+Robert Delaunay ロベール・ドローネー
+Espace Art Concret コンクリートアートスペース
+Art Concret in Mouans Sartoux ムアンサルトゥー・コンクリートアート
 
 
 
