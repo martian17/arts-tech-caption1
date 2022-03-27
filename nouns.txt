@@ -1,3 +1,12 @@
+IRCAM
+AI
+INRIA
+AIST
+REACH
+Fondation France-Japon 仏−日基金(FFJ)
+Air Liquide エア・リキード社
+fellow 研究員
+Fabien ファビアン
 Itoh 伊藤
 Jodie ジョディー
 
@@ -16,7 +25,14 @@ misusable 乱用できる
 assayag:
 Centre Georges Pompidou ジョルジュ・ポンピドゥー・センター
 Pierre Boulez ピエール・ブーレーズ
-	@@ -35,10 +23,6 @@ co-creativity 共同創作
+Sorbonne University ソルボンヌ大学
+Minister of the Culture Communication 文化コミュニケーション大臣
+Music Representation team 音楽表現チーム
+François Pachet フランソワ・パシェ
+MERCI
+HyVibe
+co-creativity 共同創作
+
 cyber audience サイバーオーディエンス
 Dianne Reeves ダイアン・リーブス
 
@@ -27,7 +43,17 @@ Masahiro Mori 森 政弘 uncanny valley
 Scientific Reports サイエンティフィック・レポート誌
 Christopher Alexander クリストファー・アレクサンダー
 Ars Electronica アース・エレクトロニカ
-	@@ -55,11 +39,14 @@ Nao Tokui 徳井直生
+Sébastien Lechevalier セバスチャン レシェヴァリエール FFJ
+Jean-Yves Iatrides ジャン・イーヴス イアトリデス
+Koichiro Eto 江渡浩一郎
+Sofian Audry ソフィアン・オードリー
+Lionel Obadia リオネル オバディア
+Gérard Assayag ジェラルド・アサヤグ
+Biin Shen ビン シェン
+Yosuke Takenouchi 竹之内洋輔 Japanese embassy in france
+Jean-Pierre Merlet ジャン・ピエール マーレット
+Nao Tokui 徳井直生
+
 Magali Martin-Mazauric マガリ マーティン・マザウリック
 Sophia Antipolis
 Terra Numerica テラ・ニュメリカ
@@ -43,5 +69,8 @@ FOUNDATION FRANCE-JAPAN DE L'EHESS 日仏財団
 Edith Piaf　エディットピアフ（フランスの歌手）
 Elisabeth Schwarzkopf（イギリスの歌手）
 Billie Holiday（アメリカの歌手）
+
+
+
 
 高橋 裕行
