@@ -42,7 +42,7 @@ Masahiro Mori 森 政弘 uncanny valley
 
 Scientific Reports サイエンティフィック・レポート誌
 Christopher Alexander クリストファー・アレクサンダー
-Ars Electronica アース・エレクトロニカ
+Ars Electronica アルス・エレクトロニカ
 Sébastien Lechevalier セバスチャン レシェヴァリエール FFJ
 Jean-Yves Iatrides ジャン・イーヴス イアトリデス
 Koichiro Eto 江渡浩一郎
