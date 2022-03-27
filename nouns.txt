@@ -10,6 +10,18 @@ Fabien ファビアン
 Itoh 伊藤
 Jodie ジョディー
 
+
+Media Art Festival メディア芸術祭
+Nantes ナント
+Francois Delaroziere フランソワ・デラロジエール
+Scott Eaton スコット・イートン
+Grotte Chauvet ショーヴェ洞窟
+Neal Stephenson ニール・スティーブンソン
+
+Nao Tokui
+Computational Creativity Laboratory: CC Lab
+misusable 乱用できる
+
 assayag:
 Centre Georges Pompidou ジョルジュ・ポンピドゥー・センター
 Pierre Boulez ピエール・ブーレーズ
@@ -43,6 +55,7 @@ Robert Delaunay ロベール・ドローネー
 Espace Art Concret コンクリートアートスペース
 Art Concret in Mouans Sartoux ムアンサルトゥー・コンクリートアート
 
-
+Anthony Levandowski アンソニー・レヴァンドフスキー
+SSH - Social Sciences and Humanities
 
 高橋 裕行
